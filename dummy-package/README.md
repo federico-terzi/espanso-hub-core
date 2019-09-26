@@ -1,0 +1,1 @@
+This is a dummy package, used in integration tests to make sure the package system is working.
