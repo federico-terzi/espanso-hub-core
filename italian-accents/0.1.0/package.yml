@@ -4,11 +4,11 @@ name: italian-accents
 parent: default
 
 matches:
-  - trigger: "e"
+  - trigger: "e'"
     replace: "è"
   - trigger: "e//"
     replace: "é"
-  - trigger: "a"
+  - trigger: "a'"
     replace: "à"
   - trigger: "i'"
     replace: "ì"
