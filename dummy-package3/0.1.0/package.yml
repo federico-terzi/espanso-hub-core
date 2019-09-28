@@ -1,0 +1,6 @@
+name: dummy-package
+parent: default
+
+matches:
+  - trigger: "hello"
+    replace: "world"
