@@ -6,6 +6,7 @@ package_version: "2.0.0"
 package_author: "Lyokolux"
 package_original_repo: "https://github.com/Lyokolux/espanso-gitmojis"
 package_repo: "https://github.com/federico-terzi/espanso-hub-core"
+is_core: true
 ---
 # Espanso Gitmojis
 
