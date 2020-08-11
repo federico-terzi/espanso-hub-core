@@ -1,0 +1,30 @@
+# wttr package
+
+name: wttr
+parent: default
+
+matches:
+  - trigger: ":wttrin"
+    replace: "{{output}}"
+    vars:
+      - name: output
+        type: shell
+        params:
+          cmd: 'curl https://wttr.in?format="%l:+%c+%t\n"'
+
+  - trigger: ":moonphase"
+    replace: "{{output}}"
+    vars:
+      - name: output
+        type: shell
+        params:
+          cmd: 'curl https://wttr.in?format="%m\n"'
+
+  - trigger: ":wttrat"
+    replace: "{{output}}"
+    passive_only: true
+    vars:
+      - name: output
+        type: shell
+        params:
+          cmd: 'curl https://wttr.in/$0?format="%l:+%c+%t\n"'

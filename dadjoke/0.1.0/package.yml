@@ -1,0 +1,13 @@
+# Simple package
+
+name: dadjoke
+parent: default
+
+matches:
+  - trigger: ":dadjoke"
+    replace: "{{output}}"
+    vars:
+      - name: output
+        type: shell
+        params:
+          cmd: "curl -H 'Accept: text/plain' https://icanhazdadjoke.com/"
