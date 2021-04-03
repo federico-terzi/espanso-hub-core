@@ -806,6 +806,8 @@ matches:
     replace: 🙎‍♀️
   - trigger: ':pouting man:'
     replace: 🙎‍♂️
+  - trigger: ':person with pouting face:'
+    replace: "🙎"
   - trigger: ':frowning woman:'
     replace: 🙍‍♀️
   - trigger: ':person frowning:'
