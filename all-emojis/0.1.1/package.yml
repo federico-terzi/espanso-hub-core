@@ -3,441 +3,441 @@ parent: default
 
 matches:
   - trigger: ':100:'
-    replace: "\U0001F4AF"
+    replace: 💯
   - trigger: ':score:'
-    replace: "\U0001F4AF"
+    replace: 💯
   - trigger: ':perfect:'
-    replace: "\U0001F4AF"
+    replace: 💯
   - trigger: ':1234:'
-    replace: "\U0001F522"
+    replace: 🔢
   - trigger: ':numbers:'
-    replace: "\U0001F522"
+    replace: 🔢
   - trigger: ':grinning:'
-    replace: "\U0001F600"
+    replace: 😀
   - trigger: ':happy:'
-    replace: "\U0001F600"
+    replace: 😆
   - trigger: ':smiley:'
-    replace: "\U0001F603"
+    replace: 😃
   - trigger: ':haha:'
-    replace: "\U0001F603"
+    replace: 😆
   - trigger: ':smile:'
-    replace: "\U0001F604"
+    replace: 😄
   - trigger: ':laugh:'
-    replace: "\U0001F604"
+    replace: 😄
   - trigger: ':pleased:'
-    replace: "\U0001F604"
+    replace: ☺️
   - trigger: ':grin:'
-    replace: "\U0001F601"
+    replace: 😁
   - trigger: ':laughing:'
-    replace: "\U0001F606"
+    replace: 🤣
   - trigger: ':satisfied:'
-    replace: "\U0001F606"
+    replace: 😆
   - trigger: ':laughing:'
-    replace: "\U0001F606"
+    replace: 🤣
   - trigger: ':sweat smile:'
-    replace: "\U0001F605"
+    replace: 😅
   - trigger: ':hot:'
-    replace: "\U0001F605"
+    replace: 😅
   - trigger: ':joy:'
-    replace: "\U0001F602"
+    replace: 😂
   - trigger: ':tears:'
-    replace: "\U0001F602"
+    replace: 😂
   - trigger: ':rofl:'
-    replace: "\U0001F923"
+    replace: 🤣
   - trigger: ':lol:'
-    replace: "\U0001F923"
+    replace: 🤣
   - trigger: ':relaxed:'
     replace: ☺️
   - trigger: ':blush:'
-    replace: "\U0001F60A"
+    replace: ☺️
   - trigger: ':proud:'
-    replace: "\U0001F60A"
+    replace: 😊
   - trigger: ':innocent:'
-    replace: "\U0001F607"
+    replace: 😇
   - trigger: ':slightly smiling face:'
-    replace: "\U0001F642"
+    replace: 🙂
   - trigger: ':upside down face:'
-    replace: "\U0001F643"
+    replace: 🙃
   - trigger: ':wink:'
-    replace: "\U0001F609"
+    replace: 😉
   - trigger: ':flirt:'
-    replace: "\U0001F609"
+    replace: 😘
   - trigger: ':relieved:'
-    replace: "\U0001F60C"
+    replace: 😌
   - trigger: ':whew:'
-    replace: "\U0001F60C"
+    replace: 😌
   - trigger: ':heart eyes:'
-    replace: "\U0001F60D"
+    replace: 😍
   - trigger: ':love:'
-    replace: "\U0001F60D"
+    replace: ❤️
   - trigger: ':crush:'
-    replace: "\U0001F60D"
+    replace: 😍
   - trigger: ':kissing heart:'
-    replace: "\U0001F618"
+    replace: 😘
   - trigger: ':kissing:'
-    replace: "\U0001F617"
+    replace: 😗
   - trigger: ':kissing smiling eyes:'
-    replace: "\U0001F619"
+    replace: 😙
   - trigger: ':kissing closed eyes:'
-    replace: "\U0001F61A"
+    replace: 😚
   - trigger: ':yum:'
-    replace: "\U0001F60B"
+    replace: 😋
   - trigger: ':lick:'
-    replace: "\U0001F60B"
+    replace: 😋
   - trigger: ':stuck out tongue winking eye:'
-    replace: "\U0001F61C"
+    replace: 😜
   - trigger: ':prank:'
-    replace: "\U0001F61C"
+    replace: 😝
   - trigger: ':silly:'
-    replace: "\U0001F61C"
+    replace: 😜
   - trigger: ':stuck out tongue closed eyes:'
-    replace: "\U0001F61D"
+    replace: 😝
   - trigger: ':stuck out tongue:'
-    replace: "\U0001F61B"
+    replace: 😛
   - trigger: ':money mouth face:'
-    replace: "\U0001F911"
+    replace: 🤑
   - trigger: ':rich:'
-    replace: "\U0001F911"
+    replace: 🤑
   - trigger: ':hugs:'
-    replace: "\U0001F917"
+    replace: 🤗
   - trigger: ':nerd face:'
-    replace: "\U0001F913"
+    replace: 🤓
   - trigger: ':geek:'
-    replace: "\U0001F913"
+    replace: 🤓
   - trigger: ':glasses:'
-    replace: "\U0001F913"
+    replace: 👓
   - trigger: ':sunglasses:'
-    replace: "\U0001F60E"
+    replace: 😎
   - trigger: ':clown face:'
-    replace: "\U0001F921"
+    replace: 🤡
   - trigger: ':cowboy hat face:'
-    replace: "\U0001F920"
+    replace: 🤠
   - trigger: ':smirk:'
-    replace: "\U0001F60F"
+    replace: 😏
   - trigger: ':smug:'
-    replace: "\U0001F60F"
+    replace: 😤
   - trigger: ':unamused:'
-    replace: "\U0001F612"
+    replace: 😒
   - trigger: ':meh:'
-    replace: "\U0001F612"
+    replace: 😒
   - trigger: ':disappointed:'
-    replace: "\U0001F61E"
+    replace: 😞
   - trigger: ':sad:'
-    replace: "\U0001F61E"
+    replace: 😿
   - trigger: ':pensive:'
-    replace: "\U0001F614"
+    replace: 😔
   - trigger: ':worried:'
-    replace: "\U0001F61F"
+    replace: 😟
   - trigger: ':nervous:'
-    replace: "\U0001F61F"
+    replace: 😥
   - trigger: ':confused:'
-    replace: "\U0001F615"
+    replace: ❓
   - trigger: ':slightly frowning face:'
-    replace: "\U0001F641"
+    replace: 🙁
   - trigger: ':frowning face:'
     replace: ☹️
   - trigger: ':persevere:'
-    replace: "\U0001F623"
+    replace: 😣
   - trigger: ':struggling:'
-    replace: "\U0001F623"
+    replace: 😣
   - trigger: ':confounded:'
-    replace: "\U0001F616"
+    replace: 😖
   - trigger: ':tired face:'
-    replace: "\U0001F62B"
+    replace: 😫
   - trigger: ':upset:'
-    replace: "\U0001F62B"
+    replace: 😫
   - trigger: ':whine:'
-    replace: "\U0001F62B"
+    replace: 😫
   - trigger: ':weary:'
-    replace: "\U0001F629"
+    replace: 😩
   - trigger: ':tired:'
-    replace: "\U0001F629"
+    replace: 😩
   - trigger: ':triumph:'
-    replace: "\U0001F624"
+    replace: 😤
   - trigger: ':angry:'
-    replace: "\U0001F620"
+    replace: 💢
   - trigger: ':mad:'
-    replace: "\U0001F620"
+    replace: 😠
   - trigger: ':annoyed:'
-    replace: "\U0001F620"
+    replace: 😠
   - trigger: ':rage:'
-    replace: "\U0001F621"
+    replace: 😡
   - trigger: ':pout:'
-    replace: "\U0001F621"
+    replace: 😡
   - trigger: ':rage:'
-    replace: "\U0001F621"
+    replace: 😡
   - trigger: ':no mouth:'
-    replace: "\U0001F636"
+    replace: 😶
   - trigger: ':silence:'
-    replace: "\U0001F636"
+    replace: 😯
   - trigger: ':neutral face:'
-    replace: "\U0001F610"
+    replace: 😐
   - trigger: ':expressionless:'
-    replace: "\U0001F611"
+    replace: 😑
   - trigger: ':hushed:'
-    replace: "\U0001F62F"
+    replace: 😯
   - trigger: ':speechless:'
-    replace: "\U0001F62F"
+    replace: 😯
   - trigger: ':frowning:'
-    replace: "\U0001F626"
+    replace: 😦
   - trigger: ':anguished:'
-    replace: "\U0001F627"
+    replace: 😧
   - trigger: ':stunned:'
-    replace: "\U0001F627"
+    replace: 😧
   - trigger: ':open mouth:'
-    replace: "\U0001F62E"
+    replace: 😮
   - trigger: ':surprise:'
-    replace: "\U0001F62E"
+    replace: 😮
   - trigger: ':impressed:'
-    replace: "\U0001F62E"
+    replace: 😮
   - trigger: ':wow:'
-    replace: "\U0001F62E"
+    replace: 😮
   - trigger: ':astonished:'
-    replace: "\U0001F632"
+    replace: 😲
   - trigger: ':amazed:'
-    replace: "\U0001F632"
+    replace: 😲
   - trigger: ':gasp:'
-    replace: "\U0001F632"
+    replace: 😲
   - trigger: ':dizzy face:'
-    replace: "\U0001F635"
+    replace: 😵
   - trigger: ':flushed:'
-    replace: "\U0001F633"
+    replace: 😳
   - trigger: ':scream:'
-    replace: "\U0001F631"
+    replace: 😱
   - trigger: ':horror:'
-    replace: "\U0001F631"
+    replace: 🙀
   - trigger: ':shocked:'
-    replace: "\U0001F631"
+    replace: 😱
   - trigger: ':fearful:'
-    replace: "\U0001F628"
+    replace: 😨
   - trigger: ':scared:'
-    replace: "\U0001F628"
+    replace: 😨
   - trigger: ':oops:'
-    replace: "\U0001F628"
+    replace: 😨
   - trigger: ':cold sweat:'
-    replace: "\U0001F630"
+    replace: 😰
   - trigger: ':cry:'
-    replace: "\U0001F622"
+    replace: 😭
   - trigger: ':tear:'
-    replace: "\U0001F622"
+    replace: 😿
   - trigger: ':disappointed relieved:'
-    replace: "\U0001F625"
+    replace: 😥
   - trigger: ':phew:'
-    replace: "\U0001F625"
+    replace: 😥
   - trigger: ':drooling face:'
-    replace: "\U0001F924"
+    replace: 🤤
   - trigger: ':sob:'
-    replace: "\U0001F62D"
+    replace: 😭
   - trigger: ':bawling:'
-    replace: "\U0001F62D"
+    replace: 😭
   - trigger: ':sweat:'
-    replace: "\U0001F613"
+    replace: 😓
   - trigger: ':sleepy:'
-    replace: "\U0001F62A"
+    replace: 😪
   - trigger: ':sleeping:'
-    replace: "\U0001F634"
+    replace: 💤
   - trigger: ':roll eyes:'
-    replace: "\U0001F644"
+    replace: 🙄
   - trigger: ':thinking:'
-    replace: "\U0001F914"
+    replace: 💭
   - trigger: ':lying face:'
-    replace: "\U0001F925"
+    replace: 🤥
   - trigger: ':liar:'
-    replace: "\U0001F925"
+    replace: 🤥
   - trigger: ':grimacing:'
-    replace: "\U0001F62C"
+    replace: 😬
   - trigger: ':zipper mouth face:'
-    replace: "\U0001F910"
+    replace: 🤐
   - trigger: ':hush:'
-    replace: "\U0001F910"
+    replace: 🙊
   - trigger: ':nauseated face:'
-    replace: "\U0001F922"
+    replace: 🤢
   - trigger: ':sick:'
-    replace: "\U0001F922"
+    replace: 🤧
   - trigger: ':barf:'
-    replace: "\U0001F922"
+    replace: 🤮
   - trigger: ':disgusted:'
-    replace: "\U0001F922"
+    replace: 🤢
   - trigger: ':sneezing face:'
-    replace: "\U0001F927"
+    replace: 🤧
   - trigger: ':achoo:'
-    replace: "\U0001F927"
+    replace: 🤧
   - trigger: ':mask:'
-    replace: "\U0001F637"
+    replace: 😷
   - trigger: ':ill:'
-    replace: "\U0001F637"
+    replace: 😷
   - trigger: ':face with thermometer:'
-    replace: "\U0001F912"
+    replace: 🤒
   - trigger: ':face with head bandage:'
-    replace: "\U0001F915"
+    replace: 🤕
   - trigger: ':hurt:'
-    replace: "\U0001F915"
+    replace: 🤕
   - trigger: ':smiling imp:'
-    replace: "\U0001F608"
+    replace: 😈
   - trigger: ':devil:'
-    replace: "\U0001F608"
+    replace: 👿
   - trigger: ':evil:'
-    replace: "\U0001F608"
+    replace: 👿
   - trigger: ':horns:'
-    replace: "\U0001F608"
+    replace: 👿
   - trigger: ':imp:'
-    replace: "\U0001F47F"
+    replace: 👿
   - trigger: ':japanese ogre:'
-    replace: "\U0001F479"
+    replace: 👹
   - trigger: ':monster:'
-    replace: "\U0001F479"
+    replace: 👹
   - trigger: ':japanese goblin:'
-    replace: "\U0001F47A"
+    replace: 👺
   - trigger: ':hankey:'
-    replace: "\U0001F4A9"
+    replace: 💩
   - trigger: ':poop:'
-    replace: "\U0001F4A9"
+    replace: 💩
   - trigger: ':shit:'
-    replace: "\U0001F4A9"
+    replace: 💩
   - trigger: ':crap:'
-    replace: "\U0001F4A9"
+    replace: 💩
   - trigger: ':hankey:'
-    replace: "\U0001F4A9"
+    replace: 💩
   - trigger: ':hankey:'
-    replace: "\U0001F4A9"
+    replace: 💩
   - trigger: ':ghost:'
-    replace: "\U0001F47B"
+    replace: 👻
   - trigger: ':halloween:'
-    replace: "\U0001F47B"
+    replace: 🎃
   - trigger: ':skull:'
-    replace: "\U0001F480"
+    replace: 💀
   - trigger: ':dead:'
-    replace: "\U0001F480"
+    replace: 💀
   - trigger: ':danger:'
-    replace: "\U0001F480"
+    replace: ☠️
   - trigger: ':poison:'
-    replace: "\U0001F480"
+    replace: 💀
   - trigger: ':skull and crossbones:'
     replace: ☠️
   - trigger: ':pirate:'
     replace: ☠️
   - trigger: ':alien:'
-    replace: "\U0001F47D"
+    replace: 👽
   - trigger: ':ufo:'
-    replace: "\U0001F47D"
+    replace: 🛸
   - trigger: ':space invader:'
-    replace: "\U0001F47E"
+    replace: 👾
   - trigger: ':game:'
-    replace: "\U0001F47E"
+    replace: 👾
   - trigger: ':retro:'
-    replace: "\U0001F47E"
+    replace: 👾
   - trigger: ':robot:'
-    replace: "\U0001F916"
+    replace: 🤖
   - trigger: ':jack o lantern:'
-    replace: "\U0001F383"
+    replace: 🎃
   - trigger: ':smiley cat:'
-    replace: "\U0001F63A"
+    replace: 😺
   - trigger: ':smile cat:'
-    replace: "\U0001F638"
+    replace: 😸
   - trigger: ':joy cat:'
-    replace: "\U0001F639"
+    replace: 😹
   - trigger: ':heart eyes cat:'
-    replace: "\U0001F63B"
+    replace: 😻
   - trigger: ':smirk cat:'
-    replace: "\U0001F63C"
+    replace: 😼
   - trigger: ':kissing cat:'
-    replace: "\U0001F63D"
+    replace: 😽
   - trigger: ':scream cat:'
-    replace: "\U0001F640"
+    replace: 🙀
   - trigger: ':crying cat face:'
-    replace: "\U0001F63F"
+    replace: 😿
   - trigger: ':pouting cat:'
-    replace: "\U0001F63E"
+    replace: 😾
   - trigger: ':open hands:'
-    replace: "\U0001F450"
+    replace: 👐
   - trigger: ':raised hands:'
-    replace: "\U0001F64C"
+    replace: 🙌
   - trigger: ':hooray:'
-    replace: "\U0001F64C"
+    replace: 🎉
   - trigger: ':clap:'
-    replace: "\U0001F44F"
+    replace: 👏
   - trigger: ':praise:'
-    replace: "\U0001F44F"
+    replace: 👏
   - trigger: ':applause:'
-    replace: "\U0001F44F"
+    replace: 👏
   - trigger: ':pray:'
-    replace: "\U0001F64F"
+    replace: 🙏
   - trigger: ':please:'
-    replace: "\U0001F64F"
+    replace: 🙏
   - trigger: ':hope:'
-    replace: "\U0001F64F"
+    replace: 🙏
   - trigger: ':wish:'
-    replace: "\U0001F64F"
+    replace: 🙏
   - trigger: ':handshake:'
-    replace: "\U0001F91D"
+    replace: 🤝
   - trigger: ':deal:'
-    replace: "\U0001F91D"
+    replace: 🤝
   - trigger: ':+1:'
-    replace: "\U0001F44D"
+    replace: 👍
   - trigger: ':thumbsup:'
-    replace: "\U0001F44D"
+    replace: 👍
   - trigger: ':approve:'
-    replace: "\U0001F44D"
+    replace: 👍
   - trigger: ':+1:'
-    replace: "\U0001F44D"
+    replace: 👍
   - trigger: ':-1:'
-    replace: "\U0001F44E"
+    replace: 👎
   - trigger: ':thumbsdown:'
-    replace: "\U0001F44E"
+    replace: 👎
   - trigger: ':disapprove:'
-    replace: "\U0001F44E"
+    replace: 👎
   - trigger: ':bury:'
-    replace: "\U0001F44E"
+    replace: 👎
   - trigger: ':-1:'
-    replace: "\U0001F44E"
+    replace: 👎
   - trigger: ':fist oncoming:'
-    replace: "\U0001F44A"
+    replace: 👊
   - trigger: ':facepunch:'
-    replace: "\U0001F44A"
+    replace: 👊
   - trigger: ':punch:'
-    replace: "\U0001F44A"
+    replace: 👊
   - trigger: ':attack:'
-    replace: "\U0001F44A"
+    replace: 👊
   - trigger: ':fist oncoming:'
-    replace: "\U0001F44A"
+    replace: 👊
   - trigger: ':fist oncoming:'
-    replace: "\U0001F44A"
+    replace: 👊
   - trigger: ':fist raised:'
     replace: ✊
   - trigger: ':fist:'
     replace: ✊
   - trigger: ':power:'
-    replace: ✊
+    replace: 🔋
   - trigger: ':fist raised:'
     replace: ✊
   - trigger: ':fist left:'
-    replace: "\U0001F91B"
+    replace: 🤛
   - trigger: ':fist right:'
-    replace: "\U0001F91C"
+    replace: 🤜
   - trigger: ':crossed fingers:'
-    replace: "\U0001F91E"
+    replace: 🤞
   - trigger: ':luck:'
-    replace: "\U0001F91E"
+    replace: 🍀
   - trigger: ':hopeful:'
-    replace: "\U0001F91E"
+    replace: 🤞
   - trigger: ':v:'
     replace: ✌️
   - trigger: ':victory:'
     replace: ✌️
   - trigger: ':peace:'
-    replace: ✌️
+    replace: 🕊️
   - trigger: ':metal:'
-    replace: "\U0001F918"
+    replace: 🤘
   - trigger: ':ok hand:'
-    replace: "\U0001F44C"
+    replace: 👌
   - trigger: ':point left:'
-    replace: "\U0001F448"
+    replace: 👈
   - trigger: ':point right:'
-    replace: "\U0001F449"
+    replace: 👉
   - trigger: ':point up 2:'
-    replace: "\U0001F446"
+    replace: 👆
   - trigger: ':point down:'
-    replace: "\U0001F447"
+    replace: 👇
   - trigger: ':point up:'
     replace: ☝️
   - trigger: ':hand:'
@@ -447,1951 +447,1947 @@ matches:
   - trigger: ':highfive:'
     replace: ✋
   - trigger: ':stop:'
-    replace: ✋
+    replace: 🙅‍♀️
   - trigger: ':hand:'
     replace: ✋
   - trigger: ':raised back of hand:'
-    replace: "\U0001F91A"
+    replace: 🤚
   - trigger: ':raised hand with fingers splayed:'
-    replace: "\U0001F590"
+    replace: 🖐️
   - trigger: ':vulcan salute:'
-    replace: "\U0001F596"
+    replace: 🖖
   - trigger: ':prosper:'
-    replace: "\U0001F596"
+    replace: 🖖
   - trigger: ':spock:'
-    replace: "\U0001F596"
+    replace: 🖖
   - trigger: ':wave:'
-    replace: "\U0001F44B"
+    replace: 👋
   - trigger: ':goodbye:'
-    replace: "\U0001F44B"
+    replace: 👋
   - trigger: ':call me hand:'
-    replace: "\U0001F919"
+    replace: 🤙
   - trigger: ':muscle:'
-    replace: "\U0001F4AA"
+    replace: 💪
   - trigger: ':flex:'
-    replace: "\U0001F4AA"
+    replace: 💪
   - trigger: ':bicep:'
-    replace: "\U0001F4AA"
+    replace: 💪
   - trigger: ':strong:'
-    replace: "\U0001F4AA"
+    replace: 💪
   - trigger: ':workout:'
-    replace: "\U0001F4AA"
+    replace: 🏋️‍♀️
   - trigger: ':middle finger:'
-    replace: "\U0001F595"
+    replace: 🖕
   - trigger: ':fu:'
-    replace: "\U0001F595"
+    replace: 🖕
   - trigger: ':middle finger:'
-    replace: "\U0001F595"
+    replace: 🖕
   - trigger: ':writing hand:'
     replace: ✍️
   - trigger: ':selfie:'
-    replace: "\U0001F933"
+    replace: 🤳
   - trigger: ':nail care:'
-    replace: "\U0001F485"
+    replace: 💅
   - trigger: ':beauty:'
-    replace: "\U0001F485"
+    replace: 💇
   - trigger: ':manicure:'
-    replace: "\U0001F485"
+    replace: 💅
   - trigger: ':ring:'
-    replace: "\U0001F48D"
+    replace: 💍
   - trigger: ':marriage:'
-    replace: "\U0001F48D"
+    replace: 💍
   - trigger: ':engaged:'
-    replace: "\U0001F48D"
+    replace: 💍
   - trigger: ':lipstick:'
-    replace: "\U0001F484"
+    replace: 💄
   - trigger: ':makeup:'
-    replace: "\U0001F484"
+    replace: 💄
   - trigger: ':kiss:'
-    replace: "\U0001F48B"
+    replace: 👄
   - trigger: ':lips:'
-    replace: "\U0001F444"
+    replace: 👄
   - trigger: ':tongue:'
-    replace: "\U0001F445"
+    replace: 👅
   - trigger: ':taste:'
-    replace: "\U0001F445"
+    replace: 👅
   - trigger: ':ear:'
-    replace: "\U0001F442"
+    replace: 👂
   - trigger: ':hear:'
-    replace: "\U0001F442"
+    replace: 👂
   - trigger: ':listen:'
-    replace: "\U0001F442"
+    replace: 👂
   - trigger: ':nose:'
-    replace: "\U0001F443"
+    replace: 👃
   - trigger: ':smell:'
-    replace: "\U0001F443"
+    replace: 👃
   - trigger: ':footprints:'
-    replace: "\U0001F463"
+    replace: 👣
   - trigger: ':tracks:'
-    replace: "\U0001F463"
+    replace: 👣
   - trigger: ':eye:'
-    replace: "\U0001F441"
+    replace: 👁️
   - trigger: ':eyes:'
-    replace: "\U0001F440"
+    replace: 👀
   - trigger: ':look:'
-    replace: "\U0001F440"
+    replace: 👀
   - trigger: ':see:'
-    replace: "\U0001F440"
+    replace: 👀
   - trigger: ':speaking head:'
-    replace: "\U0001F5E3"
+    replace: 🗣️
   - trigger: ':bust in silhouette:'
-    replace: "\U0001F464"
+    replace: 👤
   - trigger: ':user:'
-    replace: "\U0001F464"
+    replace: 👤
   - trigger: ':busts in silhouette:'
-    replace: "\U0001F465"
+    replace: 👥
   - trigger: ':users:'
-    replace: "\U0001F465"
+    replace: 👥
   - trigger: ':group:'
-    replace: "\U0001F465"
+    replace: 👥
   - trigger: ':team:'
-    replace: "\U0001F465"
+    replace: 👥
   - trigger: ':baby:'
-    replace: "\U0001F476"
+    replace: 👶
   - trigger: ':child:'
-    replace: "\U0001F476"
+    replace: 👪
   - trigger: ':newborn:'
-    replace: "\U0001F476"
+    replace: 👶
   - trigger: ':boy:'
-    replace: "\U0001F466"
+    replace: 👦
   - trigger: ':girl:'
-    replace: "\U0001F467"
+    replace: 👧
   - trigger: ':man:'
-    replace: "\U0001F468"
+    replace: 👨
   - trigger: ':mustache:'
-    replace: "\U0001F468"
+    replace: 👨
   - trigger: ':father:'
-    replace: "\U0001F468"
+    replace: 👨
   - trigger: ':dad:'
-    replace: "\U0001F468"
+    replace: 👨
   - trigger: ':woman:'
-    replace: "\U0001F469"
+    replace: 👩
   - trigger: ':girls:'
-    replace: "\U0001F469"
+    replace: 👩
   - trigger: ':blonde woman:'
-    replace: "\U0001F471‍♀"
+    replace: 👱‍♀️
   - trigger: ':blonde man:'
-    replace: "\U0001F471"
+    replace: "👱‍♂️"
   - trigger: ':person with blond hair:'
-    replace: "\U0001F471"
-  - trigger: ':blonde man:'
-    replace: "\U0001F471"
+    replace: "👱"
   - trigger: ':older man:'
-    replace: "\U0001F474"
+    replace: 👴
   - trigger: ':older woman:'
-    replace: "\U0001F475"
+    replace: 👵
   - trigger: ':man with gua pi mao:'
-    replace: "\U0001F472"
+    replace: 👲
   - trigger: ':woman with turban:'
-    replace: "\U0001F473‍♀"
+    replace: 👳‍♀️
   - trigger: ':man with turban:'
-    replace: "\U0001F473"
+    replace: 👳‍♂️
   - trigger: ':policewoman:'
-    replace: "\U0001F46E‍♀"
+    replace: 👮‍♀️
   - trigger: ':policeman:'
-    replace: "\U0001F46E"
+    replace: 👮‍♂️
   - trigger: ':cop:'
-    replace: "\U0001F46E"
+    replace: 👮‍♀️
   - trigger: ':police:'
-    replace: "\U0001F46E"
+    replace: 👮‍♀️
   - trigger: ':law:'
-    replace: "\U0001F46E"
+    replace: 👮‍♀️
   - trigger: ':policeman:'
-    replace: "\U0001F46E"
+    replace: 👮‍♂️
   - trigger: ':construction worker woman:'
-    replace: "\U0001F477‍♀"
+    replace: 👷‍♀️
   - trigger: ':construction worker man:'
-    replace: "\U0001F477"
+    replace: 👷‍♂️
   - trigger: ':construction worker:'
-    replace: "\U0001F477"
+    replace: 👷
   - trigger: ':helmet:'
-    replace: "\U0001F477"
+    replace: 👷‍♀️
   - trigger: ':construction worker man:'
-    replace: "\U0001F477"
+    replace: 👷‍♂️
   - trigger: ':guardswoman:'
-    replace: "\U0001F482‍♀"
+    replace: 💂‍♀️
   - trigger: ':guardsman:'
-    replace: "\U0001F482"
+    replace: 💂‍♂️
   - trigger: ':female detective:'
-    replace: "\U0001F575️‍♀️"
+    replace: 🕵️‍♀️
   - trigger: ':sleuth:'
-    replace: "\U0001F575️‍♀️"
+    replace: 🕵️‍♀️
   - trigger: ':male detective:'
-    replace: "\U0001F575"
+    replace: 🕵️‍♂️
   - trigger: ':detective:'
-    replace: "\U0001F575"
+    replace: 🕵️
   - trigger: ':male detective:'
-    replace: "\U0001F575"
+    replace: 🕵️‍♂️
   - trigger: ':woman health worker:'
-    replace: "\U0001F469‍⚕"
+    replace: 👩‍⚕️
   - trigger: ':doctor:'
-    replace: "\U0001F469‍⚕"
+    replace: 👩‍⚕️
   - trigger: ':nurse:'
-    replace: "\U0001F469‍⚕"
+    replace: 👩‍⚕️
   - trigger: ':man health worker:'
-    replace: "\U0001F468‍⚕"
+    replace: 👨‍⚕️
   - trigger: ':woman farmer:'
-    replace: "\U0001F469‍\U0001F33E"
+    replace: 👩‍🌾
   - trigger: ':man farmer:'
-    replace: "\U0001F468‍\U0001F33E"
+    replace: 👨‍🌾
   - trigger: ':woman cook:'
-    replace: "\U0001F469‍\U0001F373"
+    replace: 👩‍🍳
   - trigger: ':chef:'
-    replace: "\U0001F469‍\U0001F373"
+    replace: 👩‍🍳
   - trigger: ':man cook:'
-    replace: "\U0001F468‍\U0001F373"
+    replace: 👨‍🍳
   - trigger: ':woman student:'
-    replace: "\U0001F469‍\U0001F393"
+    replace: 👩‍🎓
   - trigger: ':graduation:'
-    replace: "\U0001F469‍\U0001F393"
+    replace: 🎓
   - trigger: ':man student:'
-    replace: "\U0001F468‍\U0001F393"
+    replace: 👨‍🎓
   - trigger: ':woman singer:'
-    replace: "\U0001F469‍\U0001F3A4"
+    replace: 👩‍🎤
   - trigger: ':rockstar:'
-    replace: "\U0001F469‍\U0001F3A4"
+    replace: 👩‍🎤
   - trigger: ':man singer:'
-    replace: "\U0001F468‍\U0001F3A4"
+    replace: 👨‍🎤
   - trigger: ':woman teacher:'
-    replace: "\U0001F469‍\U0001F3EB"
+    replace: 👩‍🏫
   - trigger: ':professor:'
-    replace: "\U0001F469‍\U0001F3EB"
+    replace: 👩‍🏫
   - trigger: ':man teacher:'
-    replace: "\U0001F468‍\U0001F3EB"
+    replace: 👨‍🏫
   - trigger: ':woman factory worker:'
-    replace: "\U0001F469‍\U0001F3ED"
+    replace: 👩‍🏭
   - trigger: ':man factory worker:'
-    replace: "\U0001F468‍\U0001F3ED"
+    replace: 👨‍🏭
   - trigger: ':woman technologist:'
-    replace: "\U0001F469‍\U0001F4BB"
+    replace: 👩‍💻
   - trigger: ':coder:'
-    replace: "\U0001F469‍\U0001F4BB"
+    replace: 👩‍💻
   - trigger: ':man technologist:'
-    replace: "\U0001F468‍\U0001F4BB"
+    replace: 👨‍💻
   - trigger: ':woman office worker:'
-    replace: "\U0001F469‍\U0001F4BC"
+    replace: 👩‍💼
   - trigger: ':business:'
-    replace: "\U0001F469‍\U0001F4BC"
+    replace: 💼
   - trigger: ':man office worker:'
-    replace: "\U0001F468‍\U0001F4BC"
+    replace: 👨‍💼
   - trigger: ':woman mechanic:'
-    replace: "\U0001F469‍\U0001F527"
+    replace: 👩‍🔧
   - trigger: ':man mechanic:'
-    replace: "\U0001F468‍\U0001F527"
+    replace: 👨‍🔧
   - trigger: ':woman scientist:'
-    replace: "\U0001F469‍\U0001F52C"
+    replace: 👩‍🔬
   - trigger: ':research:'
-    replace: "\U0001F469‍\U0001F52C"
+    replace: 👩‍🔬
   - trigger: ':man scientist:'
-    replace: "\U0001F468‍\U0001F52C"
+    replace: 👨‍🔬
   - trigger: ':woman artist:'
-    replace: "\U0001F469‍\U0001F3A8"
+    replace: 👩‍🎨
   - trigger: ':painter:'
-    replace: "\U0001F469‍\U0001F3A8"
+    replace: 👩‍🎨
   - trigger: ':man artist:'
-    replace: "\U0001F468‍\U0001F3A8"
+    replace: 👨‍🎨
   - trigger: ':woman firefighter:'
-    replace: "\U0001F469‍\U0001F692"
+    replace: 👩‍🚒
   - trigger: ':man firefighter:'
-    replace: "\U0001F468‍\U0001F692"
+    replace: 👨‍🚒
   - trigger: ':woman pilot:'
-    replace: "\U0001F469‍✈"
+    replace: 👩‍✈️
   - trigger: ':man pilot:'
-    replace: "\U0001F468‍✈"
+    replace: 👨‍✈️
   - trigger: ':woman astronaut:'
-    replace: "\U0001F469‍\U0001F680"
+    replace: 👩‍🚀
   - trigger: ':space:'
-    replace: "\U0001F469‍\U0001F680"
+    replace: 🛰️
   - trigger: ':man astronaut:'
-    replace: "\U0001F468‍\U0001F680"
+    replace: 👨‍🚀
   - trigger: ':woman judge:'
-    replace: "\U0001F469‍⚖"
+    replace: 👩‍⚖️
   - trigger: ':justice:'
-    replace: "\U0001F469‍⚖"
+    replace: 👩‍⚖️
   - trigger: ':man judge:'
-    replace: "\U0001F468‍⚖"
+    replace: 👨‍⚖️
   - trigger: ':mrs claus:'
-    replace: "\U0001F936"
+    replace: 🤶
   - trigger: ':santa:'
-    replace: "\U0001F385"
+    replace: 🤶
   - trigger: ':christmas:'
-    replace: "\U0001F385"
+    replace: 🎁
   - trigger: ':princess:'
-    replace: "\U0001F478"
-  - trigger: ':blonde:'
-    replace: "\U0001F478"
+    replace: 👸
   - trigger: ':royal:'
-    replace: "\U0001F478"
+    replace: 👑
   - trigger: ':prince:'
-    replace: "\U0001F934"
+    replace: 🤴
   - trigger: ':bride with veil:'
-    replace: "\U0001F470"
+    replace: 👰‍♀️
   - trigger: ':man in tuxedo:'
-    replace: "\U0001F935"
+    replace: 🤵‍♂️
   - trigger: ':groom:'
-    replace: "\U0001F935"
+    replace: 🤵
   - trigger: ':angel:'
-    replace: "\U0001F47C"
+    replace: 👼
   - trigger: ':pregnant woman:'
-    replace: "\U0001F930"
+    replace: 🤰
   - trigger: ':bowing woman:'
-    replace: "\U0001F647‍♀"
+    replace: 🙇‍♀️
   - trigger: ':respect:'
-    replace: "\U0001F647‍♀"
+    replace: 🙇‍♀️
   - trigger: ':thanks:'
-    replace: "\U0001F647‍♀"
+    replace: 🙇‍♀️
   - trigger: ':bowing man:'
-    replace: "\U0001F647"
+    replace: 🙇‍♂️
   - trigger: ':bow:'
-    replace: "\U0001F647"
+    replace: 🙇
   - trigger: ':bowing man:'
-    replace: "\U0001F647"
+    replace: 🙇‍♂️
   - trigger: ':tipping hand woman:'
-    replace: "\U0001F481"
+    replace: 💁‍♀️
   - trigger: ':information desk person:'
-    replace: "\U0001F481"
+    replace: 💁
   - trigger: ':sassy woman:'
-    replace: "\U0001F481"
+    replace: 💁‍♀️
   - trigger: ':tipping hand woman:'
-    replace: "\U0001F481"
+    replace: 💁‍♀️
   - trigger: ':tipping hand woman:'
-    replace: "\U0001F481"
+    replace: 💁‍♀️
   - trigger: ':tipping hand man:'
-    replace: "\U0001F481‍♂"
+    replace: 💁‍♂️
   - trigger: ':sassy man:'
-    replace: "\U0001F481‍♂"
+    replace: 💁‍♂️
   - trigger: ':information:'
-    replace: "\U0001F481‍♂"
+    replace: 💁‍♀️
   - trigger: ':tipping hand man:'
-    replace: "\U0001F481‍♂"
+    replace: 💁‍♂️
   - trigger: ':no good woman:'
-    replace: "\U0001F645"
+    replace: 🙅‍♀️
   - trigger: ':no good:'
-    replace: "\U0001F645"
+    replace: 🙅
   - trigger: ':ng woman:'
-    replace: "\U0001F645"
+    replace: 🙅‍♀️
   - trigger: ':halt:'
-    replace: "\U0001F645"
+    replace: 🙅‍♀️
   - trigger: ':no good woman:'
-    replace: "\U0001F645"
+    replace: 🙅‍♀️
   - trigger: ':no good woman:'
-    replace: "\U0001F645"
+    replace: 🙅‍♀️
   - trigger: ':no good man:'
-    replace: "\U0001F645‍♂"
+    replace: 🙅‍♂️
   - trigger: ':ng man:'
-    replace: "\U0001F645‍♂"
+    replace: 🙅‍♂️
   - trigger: ':no good man:'
-    replace: "\U0001F645‍♂"
+    replace: 🙅‍♂️
   - trigger: ':ok woman:'
-    replace: "\U0001F646"
+    replace: 🙆‍♀️
   - trigger: ':ok man:'
-    replace: "\U0001F646‍♂"
+    replace: 🙆‍♂️
   - trigger: ':raising hand woman:'
-    replace: "\U0001F64B"
+    replace: 🙋‍♀️
   - trigger: ':raising hand:'
-    replace: "\U0001F64B"
+    replace: 🙋
   - trigger: ':raising hand woman:'
-    replace: "\U0001F64B"
+    replace: 🙋‍♀️
   - trigger: ':raising hand man:'
-    replace: "\U0001F64B‍♂"
+    replace: 🙋‍♂️
   - trigger: ':woman facepalming:'
-    replace: "\U0001F926‍♀"
+    replace: 🤦‍♀️
   - trigger: ':man facepalming:'
-    replace: "\U0001F926‍♂"
+    replace: 🤦‍♂️
   - trigger: ':woman shrugging:'
-    replace: "\U0001F937‍♀"
+    replace: 🤷‍♀️
   - trigger: ':man shrugging:'
-    replace: "\U0001F937‍♂"
+    replace: 🤷‍♂️
   - trigger: ':pouting woman:'
-    replace: "\U0001F64E"
-  - trigger: ':person with pouting face:'
-    replace: "\U0001F64E"
+    replace: 🙎‍♀️
+  - trigger: ':pouting person:'
+    replace: "🙎"
   - trigger: ':pouting woman:'
-    replace: "\U0001F64E"
+    replace: 🙎‍♀️
   - trigger: ':pouting man:'
-    replace: "\U0001F64E‍♂"
+    replace: 🙎‍♂️
   - trigger: ':frowning woman:'
-    replace: "\U0001F64D"
+    replace: 🙍‍♀️
   - trigger: ':person frowning:'
-    replace: "\U0001F64D"
+    replace: "🙍"
   - trigger: ':frowning woman:'
-    replace: "\U0001F64D"
+    replace: 🙍‍♀️
   - trigger: ':frowning man:'
-    replace: "\U0001F64D‍♂"
+    replace: 🙍‍♂️
   - trigger: ':haircut woman:'
-    replace: "\U0001F487"
+    replace: 💇‍♀️
   - trigger: ':haircut:'
-    replace: "\U0001F487"
+    replace: 💇
   - trigger: ':haircut woman:'
-    replace: "\U0001F487"
+    replace: 💇‍♀️
   - trigger: ':haircut man:'
-    replace: "\U0001F487‍♂"
+    replace: 💇‍♂️
   - trigger: ':massage woman:'
-    replace: "\U0001F486"
+    replace: 💆‍♀️
   - trigger: ':massage:'
-    replace: "\U0001F486"
+    replace: 💆
   - trigger: ':spa:'
-    replace: "\U0001F486"
+    replace: 💆‍♀️
   - trigger: ':massage woman:'
-    replace: "\U0001F486"
+    replace: 💆‍♀️
   - trigger: ':massage man:'
-    replace: "\U0001F486‍♂"
+    replace: 💆‍♂️
   - trigger: ':business suit levitating:'
-    replace: "\U0001F574"
+    replace: 🕴️
   - trigger: ':dancer:'
-    replace: "\U0001F483"
+    replace: 🕺
   - trigger: ':man dancing:'
-    replace: "\U0001F57A"
+    replace: 🕺
   - trigger: ':dancing women:'
-    replace: "\U0001F46F"
+    replace: 👯‍♀️
   - trigger: ':dancers:'
-    replace: "\U0001F46F"
+    replace: 👯
   - trigger: ':bunny:'
-    replace: "\U0001F46F"
+    replace: 🐰
   - trigger: ':dancing women:'
-    replace: "\U0001F46F"
+    replace: 👯‍♀️
   - trigger: ':dancing men:'
-    replace: "\U0001F46F‍♂"
+    replace: 👯‍♂️
   - trigger: ':walking woman:'
-    replace: "\U0001F6B6‍♀"
+    replace: 🚶‍♀️
   - trigger: ':walking man:'
-    replace: "\U0001F6B6"
+    replace: 🚶‍♂️
   - trigger: ':walking:'
-    replace: "\U0001F6B6"
+    replace: 🚶
   - trigger: ':walking man:'
-    replace: "\U0001F6B6"
+    replace: 🚶‍♂️
   - trigger: ':running woman:'
-    replace: "\U0001F3C3‍♀"
+    replace: 🏃‍♀️
   - trigger: ':exercise:'
-    replace: "\U0001F3C3‍♀"
+    replace: 🏃‍♀️
   - trigger: ':marathon:'
-    replace: "\U0001F3C3‍♀"
+    replace: 🎽
   - trigger: ':running man:'
-    replace: "\U0001F3C3"
+    replace: 🏃‍♂️
   - trigger: ':runner:'
-    replace: "\U0001F3C3"
+    replace: 🏃
   - trigger: ':running:'
-    replace: "\U0001F3C3"
+    replace: 👟
   - trigger: ':running man:'
-    replace: "\U0001F3C3"
+    replace: 🏃‍♂️
   - trigger: ':running man:'
-    replace: "\U0001F3C3"
+    replace: 🏃‍♂️
   - trigger: ':couple:'
-    replace: "\U0001F46B"
+    replace: 👬
   - trigger: ':two women holding hands:'
-    replace: "\U0001F46D"
+    replace: 👭
   - trigger: ':two men holding hands:'
-    replace: "\U0001F46C"
+    replace: 👬
   - trigger: ':couple with heart woman man:'
-    replace: "\U0001F491"
+    replace: 👩‍❤️‍👨
   - trigger: ':couple with heart:'
-    replace: "\U0001F491"
+    replace: 💑
   - trigger: ':couple with heart woman man:'
-    replace: "\U0001F491"
+    replace: 👩‍❤️‍👨
   - trigger: ':couple with heart woman woman:'
-    replace: "\U0001F469‍❤️‍\U0001F469"
+    replace: 👩‍❤️‍👩
   - trigger: ':couple with heart man man:'
-    replace: "\U0001F468‍❤️‍\U0001F468"
+    replace: 👨‍❤️‍👨
   - trigger: ':couplekiss man woman:'
-    replace: "\U0001F48F"
+    replace: 👩‍❤️‍💋‍👨
   - trigger: ':couplekiss woman woman:'
-    replace: "\U0001F469‍❤️‍\U0001F48B‍\U0001F469"
+    replace: 👩‍❤️‍💋‍👩
   - trigger: ':couplekiss man man:'
-    replace: "\U0001F468‍❤️‍\U0001F48B‍\U0001F468"
+    replace: 👨‍❤️‍💋‍👨
   - trigger: ':family man woman boy:'
-    replace: "\U0001F46A"
+    replace: 👨‍👩‍👦
   - trigger: ':family:'
-    replace: "\U0001F46A"
+    replace: 👪
   - trigger: ':home:'
-    replace: "\U0001F46A"
+    replace: 👪
   - trigger: ':parents:'
-    replace: "\U0001F46A"
+    replace: 👪
   - trigger: ':family man woman boy:'
-    replace: "\U0001F46A"
+    replace: 👨‍👩‍👦
   - trigger: ':family man woman girl:'
-    replace: "\U0001F468‍\U0001F469‍\U0001F467"
+    replace: 👨‍👩‍👧
   - trigger: ':family man woman girl boy:'
-    replace: "\U0001F468‍\U0001F469‍\U0001F467‍\U0001F466"
+    replace: 👨‍👩‍👧‍👦
   - trigger: ':family man woman boy boy:'
-    replace: "\U0001F468‍\U0001F469‍\U0001F466‍\U0001F466"
+    replace: 👨‍👩‍👦‍👦
   - trigger: ':family man woman girl girl:'
-    replace: "\U0001F468‍\U0001F469‍\U0001F467‍\U0001F467"
+    replace: 👨‍👩‍👧‍👧
   - trigger: ':family woman woman boy:'
-    replace: "\U0001F469‍\U0001F469‍\U0001F466"
+    replace: 👩‍👩‍👦
   - trigger: ':family woman woman girl:'
-    replace: "\U0001F469‍\U0001F469‍\U0001F467"
+    replace: 👩‍👩‍👧
   - trigger: ':family woman woman girl boy:'
-    replace: "\U0001F469‍\U0001F469‍\U0001F467‍\U0001F466"
+    replace: 👩‍👩‍👧‍👦
   - trigger: ':family woman woman boy boy:'
-    replace: "\U0001F469‍\U0001F469‍\U0001F466‍\U0001F466"
+    replace: 👩‍👩‍👦‍👦
   - trigger: ':family woman woman girl girl:'
-    replace: "\U0001F469‍\U0001F469‍\U0001F467‍\U0001F467"
+    replace: 👩‍👩‍👧‍👧
   - trigger: ':family man man boy:'
-    replace: "\U0001F468‍\U0001F468‍\U0001F466"
+    replace: 👨‍👨‍👦
   - trigger: ':family man man girl:'
-    replace: "\U0001F468‍\U0001F468‍\U0001F467"
+    replace: 👨‍👨‍👧
   - trigger: ':family man man girl boy:'
-    replace: "\U0001F468‍\U0001F468‍\U0001F467‍\U0001F466"
+    replace: 👨‍👨‍👧‍👦
   - trigger: ':family man man boy boy:'
-    replace: "\U0001F468‍\U0001F468‍\U0001F466‍\U0001F466"
+    replace: 👨‍👨‍👦‍👦
   - trigger: ':family man man girl girl:'
-    replace: "\U0001F468‍\U0001F468‍\U0001F467‍\U0001F467"
+    replace: 👨‍👨‍👧‍👧
   - trigger: ':family woman boy:'
-    replace: "\U0001F469‍\U0001F466"
+    replace: 👩‍👦
   - trigger: ':family woman girl:'
-    replace: "\U0001F469‍\U0001F467"
+    replace: 👩‍👧
   - trigger: ':family woman girl boy:'
-    replace: "\U0001F469‍\U0001F467‍\U0001F466"
+    replace: 👩‍👧‍👦
   - trigger: ':family woman boy boy:'
-    replace: "\U0001F469‍\U0001F466‍\U0001F466"
+    replace: 👩‍👦‍👦
   - trigger: ':family woman girl girl:'
-    replace: "\U0001F469‍\U0001F467‍\U0001F467"
+    replace: 👩‍👧‍👧
   - trigger: ':family man boy:'
-    replace: "\U0001F468‍\U0001F466"
+    replace: 👨‍👦
   - trigger: ':family man girl:'
-    replace: "\U0001F468‍\U0001F467"
+    replace: 👨‍👧
   - trigger: ':family man girl boy:'
-    replace: "\U0001F468‍\U0001F467‍\U0001F466"
+    replace: 👨‍👧‍👦
   - trigger: ':family man boy boy:'
-    replace: "\U0001F468‍\U0001F466‍\U0001F466"
+    replace: 👨‍👦‍👦
   - trigger: ':family man girl girl:'
-    replace: "\U0001F468‍\U0001F467‍\U0001F467"
+    replace: 👨‍👧‍👧
   - trigger: ':womans clothes:'
-    replace: "\U0001F45A"
+    replace: 👚
   - trigger: ':shirt:'
-    replace: "\U0001F455"
+    replace: 👕
   - trigger: ':tshirt:'
-    replace: "\U0001F455"
+    replace: 👕
   - trigger: ':shirt:'
-    replace: "\U0001F455"
+    replace: 👕
   - trigger: ':jeans:'
-    replace: "\U0001F456"
+    replace: 👖
   - trigger: ':pants:'
-    replace: "\U0001F456"
+    replace: 👖
   - trigger: ':necktie:'
-    replace: "\U0001F454"
+    replace: 👔
   - trigger: ':formal:'
-    replace: "\U0001F454"
+    replace: 👔
   - trigger: ':dress:'
-    replace: "\U0001F457"
+    replace: 👗
   - trigger: ':bikini:'
-    replace: "\U0001F459"
+    replace: 👙
   - trigger: ':beach:'
-    replace: "\U0001F459"
+    replace: 👙
   - trigger: ':kimono:'
-    replace: "\U0001F458"
+    replace: 👘
   - trigger: ':high heel:'
-    replace: "\U0001F460"
+    replace: 👠
   - trigger: ':shoe:'
-    replace: "\U0001F460"
+    replace: 👡
   - trigger: ':sandal:'
-    replace: "\U0001F461"
+    replace: 👡
   - trigger: ':boot:'
-    replace: "\U0001F462"
+    replace: 👢
   - trigger: ':mans shoe:'
-    replace: "\U0001F45E"
+    replace: 👞
   - trigger: ':mans shoe:'
-    replace: "\U0001F45E"
+    replace: 👞
   - trigger: ':athletic shoe:'
-    replace: "\U0001F45F"
+    replace: 👟
   - trigger: ':sneaker:'
-    replace: "\U0001F45F"
+    replace: 👟
   - trigger: ':sport:'
-    replace: "\U0001F45F"
+    replace: 👟
   - trigger: ':womans hat:'
-    replace: "\U0001F452"
+    replace: 👒
   - trigger: ':tophat:'
-    replace: "\U0001F3A9"
+    replace: 🎩
   - trigger: ':hat:'
-    replace: "\U0001F3A9"
+    replace: 🎩
   - trigger: ':classy:'
-    replace: "\U0001F3A9"
+    replace: 🎩
   - trigger: ':mortar board:'
-    replace: "\U0001F393"
+    replace: 🎓
   - trigger: ':education:'
-    replace: "\U0001F393"
+    replace: 🎓
   - trigger: ':college:'
-    replace: "\U0001F393"
+    replace: 🎓
   - trigger: ':university:'
-    replace: "\U0001F393"
+    replace: 🎓
   - trigger: ':crown:'
-    replace: "\U0001F451"
+    replace: 👑
   - trigger: ':king:'
-    replace: "\U0001F451"
+    replace: 👑
   - trigger: ':queen:'
-    replace: "\U0001F451"
+    replace: 👑
   - trigger: ':rescue worker helmet:'
-    replace: ⛑
+    replace: ⛑️
   - trigger: ':school satchel:'
-    replace: "\U0001F392"
+    replace: 🎒
   - trigger: ':pouch:'
-    replace: "\U0001F45D"
+    replace: 👝
   - trigger: ':bag:'
-    replace: "\U0001F45D"
+    replace: 👝
   - trigger: ':purse:'
-    replace: "\U0001F45B"
+    replace: 👛
   - trigger: ':handbag:'
-    replace: "\U0001F45C"
+    replace: 👜
   - trigger: ':briefcase:'
-    replace: "\U0001F4BC"
+    replace: 💼
   - trigger: ':eyeglasses:'
-    replace: "\U0001F453"
+    replace: 👓
   - trigger: ':dark sunglasses:'
-    replace: "\U0001F576"
+    replace: 🕶️
   - trigger: ':closed umbrella:'
-    replace: "\U0001F302"
+    replace: 🌂
   - trigger: ':weather:'
-    replace: "\U0001F302"
+    replace: ❄️
   - trigger: ':rain:'
-    replace: "\U0001F302"
+    replace: ☔
   - trigger: ':open umbrella:'
     replace: ☂️
   - trigger: ':dog:'
-    replace: "\U0001F436"
+    replace: 🐩
   - trigger: ':pet:'
-    replace: "\U0001F436"
+    replace: 🐹
   - trigger: ':cat:'
-    replace: "\U0001F431"
+    replace: 🐱
   - trigger: ':mouse:'
-    replace: "\U0001F42D"
+    replace: 🐭
   - trigger: ':hamster:'
-    replace: "\U0001F439"
+    replace: 🐹
   - trigger: ':rabbit:'
-    replace: "\U0001F430"
+    replace: 🐰
   - trigger: ':fox face:'
-    replace: "\U0001F98A"
+    replace: 🦊
   - trigger: ':bear:'
-    replace: "\U0001F43B"
+    replace: 🐻
   - trigger: ':panda face:'
-    replace: "\U0001F43C"
+    replace: 🐼
   - trigger: ':koala:'
-    replace: "\U0001F428"
+    replace: 🐨
   - trigger: ':tiger:'
-    replace: "\U0001F42F"
+    replace: 🐯
   - trigger: ':lion:'
-    replace: "\U0001F981"
+    replace: 🦁
   - trigger: ':cow:'
-    replace: "\U0001F42E"
+    replace: 🐮
   - trigger: ':pig:'
-    replace: "\U0001F437"
+    replace: 🐷
   - trigger: ':pig nose:'
-    replace: "\U0001F43D"
+    replace: 🐽
   - trigger: ':frog:'
-    replace: "\U0001F438"
+    replace: 🐸
   - trigger: ':monkey face:'
-    replace: "\U0001F435"
+    replace: 🐵
   - trigger: ':see no evil:'
-    replace: "\U0001F648"
+    replace: 🙈
   - trigger: ':blind:'
-    replace: "\U0001F648"
+    replace: 🙈
   - trigger: ':ignore:'
-    replace: "\U0001F648"
+    replace: 🙈
   - trigger: ':hear no evil:'
-    replace: "\U0001F649"
+    replace: 🙉
   - trigger: ':deaf:'
-    replace: "\U0001F649"
+    replace: 🙉
   - trigger: ':speak no evil:'
-    replace: "\U0001F64A"
+    replace: 🙊
   - trigger: ':monkey:'
-    replace: "\U0001F412"
+    replace: 🐒
   - trigger: ':chicken:'
-    replace: "\U0001F414"
+    replace: 🍗
   - trigger: ':penguin:'
-    replace: "\U0001F427"
+    replace: 🐧
   - trigger: ':bird:'
-    replace: "\U0001F426"
+    replace: 🐦
   - trigger: ':baby chick:'
-    replace: "\U0001F424"
+    replace: 🐤
   - trigger: ':hatching chick:'
-    replace: "\U0001F423"
+    replace: 🐣
   - trigger: ':hatched chick:'
-    replace: "\U0001F425"
+    replace: 🐥
   - trigger: ':duck:'
-    replace: "\U0001F986"
+    replace: 🦆
   - trigger: ':eagle:'
-    replace: "\U0001F985"
+    replace: 🦅
   - trigger: ':owl:'
-    replace: "\U0001F989"
+    replace: 🦉
   - trigger: ':bat:'
-    replace: "\U0001F987"
+    replace: 🦇
   - trigger: ':wolf:'
-    replace: "\U0001F43A"
+    replace: 🐺
   - trigger: ':boar:'
-    replace: "\U0001F417"
+    replace: 🐗
   - trigger: ':horse:'
-    replace: "\U0001F434"
+    replace: 🐴
   - trigger: ':unicorn:'
-    replace: "\U0001F984"
+    replace: 🦄
   - trigger: ':bee:'
-    replace: "\U0001F41D"
+    replace: 🐝
   - trigger: ':honeybee:'
-    replace: "\U0001F41D"
+    replace: 🐝
   - trigger: ':bee:'
-    replace: "\U0001F41D"
+    replace: 🐝
   - trigger: ':bug:'
-    replace: "\U0001F41B"
+    replace: 🐞
   - trigger: ':butterfly:'
-    replace: "\U0001F98B"
+    replace: 🦋
   - trigger: ':snail:'
-    replace: "\U0001F40C"
+    replace: 🐌
   - trigger: ':slow:'
-    replace: "\U0001F40C"
+    replace: 🐌
   - trigger: ':shell:'
-    replace: "\U0001F41A"
+    replace: 🐚
   - trigger: ':sea:'
-    replace: "\U0001F41A"
+    replace: 🌊
   - trigger: ':beetle:'
-    replace: "\U0001F41E"
+    replace: 🪲
   - trigger: ':ant:'
-    replace: "\U0001F41C"
+    replace: 🐜
   - trigger: ':spider:'
-    replace: "\U0001F577"
+    replace: 🕷️
   - trigger: ':spider web:'
-    replace: "\U0001F578"
+    replace: 🕸️
   - trigger: ':turtle:'
-    replace: "\U0001F422"
+    replace: 🐢
   - trigger: ':snake:'
-    replace: "\U0001F40D"
+    replace: 🐍
   - trigger: ':lizard:'
-    replace: "\U0001F98E"
+    replace: 🦎
   - trigger: ':scorpion:'
-    replace: "\U0001F982"
+    replace: 🦂
   - trigger: ':crab:'
-    replace: "\U0001F980"
+    replace: 🦀
   - trigger: ':squid:'
-    replace: "\U0001F991"
+    replace: 🦑
   - trigger: ':octopus:'
-    replace: "\U0001F419"
+    replace: 🐙
   - trigger: ':shrimp:'
-    replace: "\U0001F990"
+    replace: 🦐
   - trigger: ':tropical fish:'
-    replace: "\U0001F420"
+    replace: 🐠
   - trigger: ':fish:'
-    replace: "\U0001F41F"
+    replace: 🐟
   - trigger: ':blowfish:'
-    replace: "\U0001F421"
+    replace: 🐡
   - trigger: ':dolphin:'
-    replace: "\U0001F42C"
+    replace: 🐬
   - trigger: ':flipper:'
-    replace: "\U0001F42C"
+    replace: 🐬
   - trigger: ':dolphin:'
-    replace: "\U0001F42C"
+    replace: 🐬
   - trigger: ':shark:'
-    replace: "\U0001F988"
+    replace: 🦈
   - trigger: ':whale:'
-    replace: "\U0001F433"
+    replace: 🐳
   - trigger: ':whale2:'
-    replace: "\U0001F40B"
+    replace: 🐋
   - trigger: ':crocodile:'
-    replace: "\U0001F40A"
+    replace: 🐊
   - trigger: ':leopard:'
-    replace: "\U0001F406"
+    replace: 🐆
   - trigger: ':tiger2:'
-    replace: "\U0001F405"
+    replace: 🐅
   - trigger: ':water buffalo:'
-    replace: "\U0001F403"
+    replace: 🐃
   - trigger: ':ox:'
-    replace: "\U0001F402"
+    replace: 🐂
   - trigger: ':cow2:'
-    replace: "\U0001F404"
+    replace: 🐄
   - trigger: ':deer:'
-    replace: "\U0001F98C"
+    replace: 🦌
   - trigger: ':dromedary camel:'
-    replace: "\U0001F42A"
+    replace: 🐪
   - trigger: ':camel:'
-    replace: "\U0001F42B"
+    replace: 🐫
   - trigger: ':elephant:'
-    replace: "\U0001F418"
+    replace: 🐘
   - trigger: ':rhinoceros:'
-    replace: "\U0001F98F"
+    replace: 🦏
   - trigger: ':gorilla:'
-    replace: "\U0001F98D"
+    replace: 🦍
   - trigger: ':racehorse:'
-    replace: "\U0001F40E"
+    replace: 🐎
   - trigger: ':speed:'
-    replace: "\U0001F40E"
+    replace: 🐎
   - trigger: ':pig2:'
-    replace: "\U0001F416"
+    replace: 🐖
   - trigger: ':goat:'
-    replace: "\U0001F410"
+    replace: 🐐
   - trigger: ':ram:'
-    replace: "\U0001F40F"
+    replace: 🐏
   - trigger: ':sheep:'
-    replace: "\U0001F411"
+    replace: 🐑
   - trigger: ':dog2:'
-    replace: "\U0001F415"
+    replace: 🐕
   - trigger: ':poodle:'
-    replace: "\U0001F429"
+    replace: 🐩
   - trigger: ':cat2:'
-    replace: "\U0001F408"
+    replace: 🐈
   - trigger: ':rooster:'
-    replace: "\U0001F413"
+    replace: 🐓
   - trigger: ':turkey:'
-    replace: "\U0001F983"
+    replace: 🇹🇷
   - trigger: ':thanksgiving:'
-    replace: "\U0001F983"
+    replace: 🦃
   - trigger: ':dove:'
-    replace: "\U0001F54A"
+    replace: 🕊️
   - trigger: ':rabbit2:'
-    replace: "\U0001F407"
+    replace: 🐇
   - trigger: ':mouse2:'
-    replace: "\U0001F401"
+    replace: 🐁
   - trigger: ':rat:'
-    replace: "\U0001F400"
+    replace: 🐀
   - trigger: ':chipmunk:'
-    replace: "\U0001F43F"
+    replace: 🐿️
   - trigger: ':feet:'
-    replace: "\U0001F43E"
+    replace: 🐾
   - trigger: ':paw prints:'
-    replace: "\U0001F43E"
+    replace: 🐾
   - trigger: ':feet:'
-    replace: "\U0001F43E"
+    replace: 🐾
   - trigger: ':dragon:'
-    replace: "\U0001F409"
+    replace: 🐉
   - trigger: ':dragon face:'
-    replace: "\U0001F432"
+    replace: 🐲
   - trigger: ':cactus:'
-    replace: "\U0001F335"
+    replace: 🌵
   - trigger: ':christmas tree:'
-    replace: "\U0001F384"
+    replace: 🎄
   - trigger: ':evergreen tree:'
-    replace: "\U0001F332"
+    replace: 🌲
   - trigger: ':wood:'
-    replace: "\U0001F332"
+    replace: 🪵
   - trigger: ':deciduous tree:'
-    replace: "\U0001F333"
+    replace: 🌳
   - trigger: ':palm tree:'
-    replace: "\U0001F334"
+    replace: 🌴
   - trigger: ':seedling:'
-    replace: "\U0001F331"
+    replace: 🌱
   - trigger: ':plant:'
-    replace: "\U0001F331"
+    replace: 🌱
   - trigger: ':herb:'
-    replace: "\U0001F33F"
+    replace: 🌿
   - trigger: ':shamrock:'
     replace: ☘️
   - trigger: ':four leaf clover:'
-    replace: "\U0001F340"
+    replace: 🍀
   - trigger: ':bamboo:'
-    replace: "\U0001F38D"
+    replace: 🎍
   - trigger: ':tanabata tree:'
-    replace: "\U0001F38B"
+    replace: 🎋
   - trigger: ':leaves:'
-    replace: "\U0001F343"
+    replace: 🍃
   - trigger: ':leaf:'
-    replace: "\U0001F343"
+    replace: 🍃
   - trigger: ':fallen leaf:'
-    replace: "\U0001F342"
+    replace: 🍂
   - trigger: ':autumn:'
-    replace: "\U0001F342"
+    replace: 🍂
   - trigger: ':maple leaf:'
-    replace: "\U0001F341"
+    replace: 🍁
   - trigger: ':mushroom:'
-    replace: "\U0001F344"
+    replace: 🍄
   - trigger: ':ear of rice:'
-    replace: "\U0001F33E"
+    replace: 🌾
   - trigger: ':bouquet:'
-    replace: "\U0001F490"
+    replace: 💐
   - trigger: ':flowers:'
-    replace: "\U0001F490"
+    replace: 💐
   - trigger: ':tulip:'
-    replace: "\U0001F337"
+    replace: 🌷
   - trigger: ':flower:'
-    replace: "\U0001F337"
+    replace: 🌷
   - trigger: ':rose:'
-    replace: "\U0001F339"
+    replace: 🌹
   - trigger: ':wilted flower:'
-    replace: "\U0001F940"
+    replace: 🥀
   - trigger: ':sunflower:'
-    replace: "\U0001F33B"
+    replace: 🌻
   - trigger: ':blossom:'
-    replace: "\U0001F33C"
+    replace: 🌼
   - trigger: ':cherry blossom:'
-    replace: "\U0001F338"
+    replace: 🌸
   - trigger: ':spring:'
-    replace: "\U0001F338"
+    replace: 🌸
   - trigger: ':hibiscus:'
-    replace: "\U0001F33A"
+    replace: 🌺
   - trigger: ':earth americas:'
-    replace: "\U0001F30E"
+    replace: 🌎
   - trigger: ':globe:'
-    replace: "\U0001F30E"
+    replace: 🌏
   - trigger: ':world:'
-    replace: "\U0001F30E"
+    replace: 🌐
   - trigger: ':international:'
-    replace: "\U0001F30E"
+    replace: 🌐
   - trigger: ':earth africa:'
-    replace: "\U0001F30D"
+    replace: 🌍
   - trigger: ':earth asia:'
-    replace: "\U0001F30F"
+    replace: 🌏
   - trigger: ':full moon:'
-    replace: "\U0001F315"
+    replace: 🌕
   - trigger: ':waning gibbous moon:'
-    replace: "\U0001F316"
+    replace: 🌖
   - trigger: ':last quarter moon:'
-    replace: "\U0001F317"
+    replace: 🌗
   - trigger: ':waning crescent moon:'
-    replace: "\U0001F318"
+    replace: 🌘
   - trigger: ':new moon:'
-    replace: "\U0001F311"
+    replace: 🌑
   - trigger: ':waxing crescent moon:'
-    replace: "\U0001F312"
+    replace: 🌒
   - trigger: ':first quarter moon:'
-    replace: "\U0001F313"
+    replace: 🌓
   - trigger: ':moon:'
-    replace: "\U0001F314"
+    replace: 🌔
   - trigger: ':waxing gibbous moon:'
-    replace: "\U0001F314"
+    replace: 🌔
   - trigger: ':moon:'
-    replace: "\U0001F314"
+    replace: 🌔
   - trigger: ':new moon with face:'
-    replace: "\U0001F31A"
+    replace: 🌚
   - trigger: ':full moon with face:'
-    replace: "\U0001F31D"
+    replace: 🌝
   - trigger: ':sun with face:'
-    replace: "\U0001F31E"
+    replace: 🌞
   - trigger: ':summer:'
-    replace: "\U0001F31E"
+    replace: 🌞
   - trigger: ':first quarter moon with face:'
-    replace: "\U0001F31B"
+    replace: 🌛
   - trigger: ':last quarter moon with face:'
-    replace: "\U0001F31C"
+    replace: 🌜
   - trigger: ':crescent moon:'
-    replace: "\U0001F319"
+    replace: 🌙
   - trigger: ':night:'
-    replace: "\U0001F319"
+    replace: 🌙
   - trigger: ':dizzy:'
-    replace: "\U0001F4AB"
+    replace: 💫
   - trigger: ':star:'
-    replace: ⭐️
+    replace: ⭐
   - trigger: ':star2:'
-    replace: "\U0001F31F"
+    replace: 🌟
   - trigger: ':sparkles:'
     replace: ✨
   - trigger: ':shiny:'
     replace: ✨
   - trigger: ':zap:'
-    replace: ⚡️
+    replace: ⚡
   - trigger: ':lightning:'
-    replace: ⚡️
+    replace: ⚡
   - trigger: ':thunder:'
-    replace: ⚡️
+    replace: ⚡
   - trigger: ':fire:'
-    replace: "\U0001F525"
+    replace: 🔥
   - trigger: ':burn:'
-    replace: "\U0001F525"
+    replace: 🔥
   - trigger: ':boom:'
-    replace: "\U0001F4A5"
+    replace: 💣
   - trigger: ':collision:'
-    replace: "\U0001F4A5"
+    replace: 💥
   - trigger: ':explode:'
-    replace: "\U0001F4A5"
+    replace: 💥
   - trigger: ':boom:'
-    replace: "\U0001F4A5"
+    replace: 💣
   - trigger: ':comet:'
-    replace: ☄
+    replace: ☄️
   - trigger: ':sunny:'
     replace: ☀️
   - trigger: ':sun behind small cloud:'
-    replace: "\U0001F324"
+    replace: 🌤️
   - trigger: ':partly sunny:'
-    replace: ⛅️
+    replace: ⛅
   - trigger: ':sun behind large cloud:'
-    replace: "\U0001F325"
+    replace: 🌥️
   - trigger: ':sun behind rain cloud:'
-    replace: "\U0001F326"
+    replace: 🌦️
   - trigger: ':rainbow:'
-    replace: "\U0001F308"
+    replace: 🌈
   - trigger: ':cloud:'
-    replace: ☁️
+    replace: ⛅
   - trigger: ':cloud with rain:'
-    replace: "\U0001F327"
+    replace: 🌧️
   - trigger: ':cloud with lightning and rain:'
-    replace: ⛈
+    replace: ⛈️
   - trigger: ':cloud with lightning:'
-    replace: "\U0001F329"
+    replace: 🌩️
   - trigger: ':cloud with snow:'
-    replace: "\U0001F328"
+    replace: 🌨️
   - trigger: ':snowman with snow:'
     replace: ☃️
   - trigger: ':winter:'
-    replace: ☃️
+    replace: ⛄
   - trigger: ':snowman:'
-    replace: ⛄️
+    replace: ⛄
   - trigger: ':snowflake:'
     replace: ❄️
   - trigger: ':cold:'
     replace: ❄️
   - trigger: ':wind face:'
-    replace: "\U0001F32C"
+    replace: 🌬️
   - trigger: ':dash:'
-    replace: "\U0001F4A8"
+    replace: 💨
   - trigger: ':wind:'
-    replace: "\U0001F4A8"
+    replace: 💨
   - trigger: ':blow:'
-    replace: "\U0001F4A8"
+    replace: 💨
   - trigger: ':fast:'
-    replace: "\U0001F4A8"
+    replace: 💨
   - trigger: ':tornado:'
-    replace: "\U0001F32A"
+    replace: 🌪️
   - trigger: ':fog:'
-    replace: "\U0001F32B"
+    replace: 🌫️
   - trigger: ':ocean:'
-    replace: "\U0001F30A"
+    replace: 🌊
   - trigger: ':droplet:'
-    replace: "\U0001F4A7"
+    replace: 💧
   - trigger: ':water:'
-    replace: "\U0001F4A7"
+    replace: 💧
   - trigger: ':sweat drops:'
-    replace: "\U0001F4A6"
+    replace: 💦
   - trigger: ':umbrella:'
-    replace: ☔️
+    replace: ☔
   - trigger: ':green apple:'
-    replace: "\U0001F34F"
+    replace: 🍏
   - trigger: ':fruit:'
-    replace: "\U0001F34F"
+    replace: 🍓
   - trigger: ':apple:'
-    replace: "\U0001F34E"
+    replace: 🍎
   - trigger: ':pear:'
-    replace: "\U0001F350"
+    replace: 🍐
   - trigger: ':tangerine:'
-    replace: "\U0001F34A"
+    replace: 🍊
   - trigger: ':orange:'
-    replace: "\U0001F34A"
+    replace: 🍊
   - trigger: ':mandarin:'
-    replace: "\U0001F34A"
+    replace: 🍊
   - trigger: ':tangerine:'
-    replace: "\U0001F34A"
+    replace: 🍊
   - trigger: ':tangerine:'
-    replace: "\U0001F34A"
+    replace: 🍊
   - trigger: ':lemon:'
-    replace: "\U0001F34B"
+    replace: 🍋
   - trigger: ':banana:'
-    replace: "\U0001F34C"
+    replace: 🍌
   - trigger: ':watermelon:'
-    replace: "\U0001F349"
+    replace: 🍉
   - trigger: ':grapes:'
-    replace: "\U0001F347"
+    replace: 🍇
   - trigger: ':strawberry:'
-    replace: "\U0001F353"
+    replace: 🍓
   - trigger: ':melon:'
-    replace: "\U0001F348"
+    replace: 🍈
   - trigger: ':cherries:'
-    replace: "\U0001F352"
+    replace: 🍒
   - trigger: ':peach:'
-    replace: "\U0001F351"
+    replace: 🍑
   - trigger: ':pineapple:'
-    replace: "\U0001F34D"
+    replace: 🍍
   - trigger: ':kiwi fruit:'
-    replace: "\U0001F95D"
+    replace: 🥝
   - trigger: ':avocado:'
-    replace: "\U0001F951"
+    replace: 🥑
   - trigger: ':tomato:'
-    replace: "\U0001F345"
+    replace: 🍅
   - trigger: ':eggplant:'
-    replace: "\U0001F346"
+    replace: 🍆
   - trigger: ':aubergine:'
-    replace: "\U0001F346"
+    replace: 🍆
   - trigger: ':cucumber:'
-    replace: "\U0001F952"
+    replace: 🥒
   - trigger: ':carrot:'
-    replace: "\U0001F955"
+    replace: 🥕
   - trigger: ':corn:'
-    replace: "\U0001F33D"
+    replace: 🌽
   - trigger: ':hot pepper:'
-    replace: "\U0001F336"
+    replace: 🌶️
   - trigger: ':spicy:'
-    replace: "\U0001F336"
+    replace: 🌶️
   - trigger: ':potato:'
-    replace: "\U0001F954"
+    replace: 🥔
   - trigger: ':sweet potato:'
-    replace: "\U0001F360"
+    replace: 🍠
   - trigger: ':chestnut:'
-    replace: "\U0001F330"
+    replace: 🌰
   - trigger: ':peanuts:'
-    replace: "\U0001F95C"
+    replace: 🥜
   - trigger: ':honey pot:'
-    replace: "\U0001F36F"
+    replace: 🍯
   - trigger: ':croissant:'
-    replace: "\U0001F950"
+    replace: 🥐
   - trigger: ':bread:'
-    replace: "\U0001F35E"
+    replace: 🍞
   - trigger: ':toast:'
-    replace: "\U0001F35E"
+    replace: 🥂
   - trigger: ':baguette bread:'
-    replace: "\U0001F956"
+    replace: 🥖
   - trigger: ':cheese:'
-    replace: "\U0001F9C0"
+    replace: 🧀
   - trigger: ':egg:'
-    replace: "\U0001F95A"
+    replace: 🥚
   - trigger: ':fried egg:'
-    replace: "\U0001F373"
+    replace: 🍳
   - trigger: ':breakfast:'
-    replace: "\U0001F373"
+    replace: 🍵
   - trigger: ':bacon:'
-    replace: "\U0001F953"
+    replace: 🥓
   - trigger: ':pancakes:'
-    replace: "\U0001F95E"
+    replace: 🥞
   - trigger: ':fried shrimp:'
-    replace: "\U0001F364"
+    replace: 🍤
   - trigger: ':tempura:'
-    replace: "\U0001F364"
+    replace: 🍤
   - trigger: ':poultry leg:'
-    replace: "\U0001F357"
+    replace: 🍗
   - trigger: ':meat:'
-    replace: "\U0001F357"
+    replace: 🍗
   - trigger: ':meat on bone:'
-    replace: "\U0001F356"
+    replace: 🍖
   - trigger: ':pizza:'
-    replace: "\U0001F355"
+    replace: 🍕
   - trigger: ':hotdog:'
-    replace: "\U0001F32D"
+    replace: 🌭
   - trigger: ':hamburger:'
-    replace: "\U0001F354"
+    replace: 🍔
   - trigger: ':burger:'
-    replace: "\U0001F354"
+    replace: 🍔
   - trigger: ':fries:'
-    replace: "\U0001F35F"
+    replace: 🍟
   - trigger: ':stuffed flatbread:'
-    replace: "\U0001F959"
+    replace: 🥙
   - trigger: ':taco:'
-    replace: "\U0001F32E"
+    replace: 🌮
   - trigger: ':burrito:'
-    replace: "\U0001F32F"
+    replace: 🌯
   - trigger: ':green salad:'
-    replace: "\U0001F957"
+    replace: 🥗
   - trigger: ':shallow pan of food:'
-    replace: "\U0001F958"
+    replace: 🥘
   - trigger: ':paella:'
-    replace: "\U0001F958"
+    replace: 🥘
   - trigger: ':spaghetti:'
-    replace: "\U0001F35D"
+    replace: 🍝
   - trigger: ':pasta:'
-    replace: "\U0001F35D"
+    replace: 🍝
   - trigger: ':ramen:'
-    replace: "\U0001F35C"
+    replace: 🍜
   - trigger: ':noodle:'
-    replace: "\U0001F35C"
+    replace: 🍜
   - trigger: ':stew:'
-    replace: "\U0001F372"
+    replace: 🍲
   - trigger: ':fish cake:'
-    replace: "\U0001F365"
+    replace: 🍥
   - trigger: ':sushi:'
-    replace: "\U0001F363"
+    replace: 🍣
   - trigger: ':bento:'
-    replace: "\U0001F371"
+    replace: 🍱
   - trigger: ':curry:'
-    replace: "\U0001F35B"
+    replace: 🍛
   - trigger: ':rice:'
-    replace: "\U0001F35A"
+    replace: 🍚
   - trigger: ':rice ball:'
-    replace: "\U0001F359"
+    replace: 🍙
   - trigger: ':rice cracker:'
-    replace: "\U0001F358"
+    replace: 🍘
   - trigger: ':oden:'
-    replace: "\U0001F362"
+    replace: 🍢
   - trigger: ':dango:'
-    replace: "\U0001F361"
+    replace: 🍡
   - trigger: ':shaved ice:'
-    replace: "\U0001F367"
+    replace: 🍧
   - trigger: ':ice cream:'
-    replace: "\U0001F368"
+    replace: 🍨
   - trigger: ':icecream:'
-    replace: "\U0001F366"
+    replace: 🍦
   - trigger: ':cake:'
-    replace: "\U0001F370"
+    replace: 🍰
   - trigger: ':dessert:'
-    replace: "\U0001F370"
+    replace: 🍰
   - trigger: ':birthday:'
-    replace: "\U0001F382"
+    replace: 🎁
   - trigger: ':party:'
-    replace: "\U0001F382"
+    replace: 🎉
   - trigger: ':custard:'
-    replace: "\U0001F36E"
+    replace: 🍮
   - trigger: ':lollipop:'
-    replace: "\U0001F36D"
+    replace: 🍭
   - trigger: ':candy:'
-    replace: "\U0001F36C"
+    replace: 🍬
   - trigger: ':sweet:'
-    replace: "\U0001F36C"
+    replace: 🍬
   - trigger: ':chocolate bar:'
-    replace: "\U0001F36B"
+    replace: 🍫
   - trigger: ':popcorn:'
-    replace: "\U0001F37F"
+    replace: 🍿
   - trigger: ':doughnut:'
-    replace: "\U0001F369"
+    replace: 🍩
   - trigger: ':cookie:'
-    replace: "\U0001F36A"
+    replace: 🍪
   - trigger: ':milk glass:'
-    replace: "\U0001F95B"
+    replace: 🥛
   - trigger: ':baby bottle:'
-    replace: "\U0001F37C"
+    replace: 🍼
   - trigger: ':milk:'
-    replace: "\U0001F37C"
+    replace: 🍼
   - trigger: ':coffee:'
-    replace: ☕️
+    replace: ☕
   - trigger: ':cafe:'
-    replace: ☕️
+    replace: ☕
   - trigger: ':espresso:'
-    replace: ☕️
+    replace: ☕
   - trigger: ':tea:'
-    replace: "\U0001F375"
+    replace: 🍵
   - trigger: ':green:'
-    replace: "\U0001F375"
+    replace: ♻️
   - trigger: ':sake:'
-    replace: "\U0001F376"
+    replace: 🍶
   - trigger: ':beer:'
-    replace: "\U0001F37A"
+    replace: 🍺
   - trigger: ':drink:'
-    replace: "\U0001F37A"
+    replace: 🍺
   - trigger: ':beers:'
-    replace: "\U0001F37B"
+    replace: 🍻
   - trigger: ':drinks:'
-    replace: "\U0001F37B"
+    replace: 🍻
   - trigger: ':clinking glasses:'
-    replace: "\U0001F942"
+    replace: 🥂
   - trigger: ':cheers:'
-    replace: "\U0001F942"
+    replace: 🥂
   - trigger: ':wine glass:'
-    replace: "\U0001F377"
+    replace: 🍷
   - trigger: ':tumbler glass:'
-    replace: "\U0001F943"
+    replace: 🥃
   - trigger: ':whisky:'
-    replace: "\U0001F943"
+    replace: 🥃
   - trigger: ':cocktail:'
-    replace: "\U0001F378"
+    replace: 🍸
   - trigger: ':tropical drink:'
-    replace: "\U0001F379"
+    replace: 🍹
   - trigger: ':vacation:'
-    replace: "\U0001F379"
+    replace: 🍹
   - trigger: ':champagne:'
-    replace: "\U0001F37E"
+    replace: 🍾
   - trigger: ':bottle:'
-    replace: "\U0001F37E"
+    replace: 🍾
   - trigger: ':bubbly:'
-    replace: "\U0001F37E"
+    replace: 🍾
   - trigger: ':celebration:'
-    replace: "\U0001F37E"
+    replace: 🎆
   - trigger: ':spoon:'
-    replace: "\U0001F944"
+    replace: 🥄
   - trigger: ':fork and knife:'
-    replace: "\U0001F374"
+    replace: 🍴
   - trigger: ':cutlery:'
-    replace: "\U0001F374"
+    replace: 🍴
   - trigger: ':plate with cutlery:'
-    replace: "\U0001F37D"
+    replace: 🍽️
   - trigger: ':dining:'
-    replace: "\U0001F37D"
+    replace: 🍽️
   - trigger: ':dinner:'
-    replace: "\U0001F37D"
+    replace: 🍽️
   - trigger: ':soccer:'
-    replace: ⚽️
+    replace: ⚽
   - trigger: ':sports:'
-    replace: ⚽️
+    replace: 🎾
   - trigger: ':basketball:'
-    replace: "\U0001F3C0"
+    replace: 🏀
   - trigger: ':football:'
-    replace: "\U0001F3C8"
+    replace: 🏈
   - trigger: ':baseball:'
-    replace: ⚾️
+    replace: ⚾
   - trigger: ':tennis:'
-    replace: "\U0001F3BE"
+    replace: 🎾
   - trigger: ':volleyball:'
-    replace: "\U0001F3D0"
+    replace: 🏐
   - trigger: ':rugby football:'
-    replace: "\U0001F3C9"
+    replace: 🏉
   - trigger: ':8ball:'
-    replace: "\U0001F3B1"
+    replace: 🎱
   - trigger: ':pool:'
-    replace: "\U0001F3B1"
+    replace: 🎱
   - trigger: ':billiards:'
-    replace: "\U0001F3B1"
+    replace: 🎱
   - trigger: ':ping pong:'
-    replace: "\U0001F3D3"
+    replace: 🏓
   - trigger: ':badminton:'
-    replace: "\U0001F3F8"
+    replace: 🏸
   - trigger: ':goal net:'
-    replace: "\U0001F945"
+    replace: 🥅
   - trigger: ':ice hockey:'
-    replace: "\U0001F3D2"
+    replace: 🏒
   - trigger: ':field hockey:'
-    replace: "\U0001F3D1"
+    replace: 🏑
   - trigger: ':cricket:'
-    replace: "\U0001F3CF"
+    replace: 🦗
   - trigger: ':golf:'
-    replace: ⛳️
+    replace: ⛳
   - trigger: ':bow and arrow:'
-    replace: "\U0001F3F9"
+    replace: 🏹
   - trigger: ':archery:'
-    replace: "\U0001F3F9"
+    replace: 🏹
   - trigger: ':fishing pole and fish:'
-    replace: "\U0001F3A3"
+    replace: 🎣
   - trigger: ':boxing glove:'
-    replace: "\U0001F94A"
+    replace: 🥊
   - trigger: ':martial arts uniform:'
-    replace: "\U0001F94B"
+    replace: 🥋
   - trigger: ':ice skate:'
-    replace: ⛸
+    replace: ⛸️
   - trigger: ':skating:'
-    replace: ⛸
+    replace: ⛸️
   - trigger: ':ski:'
-    replace: "\U0001F3BF"
+    replace: 🎿
   - trigger: ':skier:'
-    replace: ⛷
+    replace: ⛷️
   - trigger: ':snowboarder:'
-    replace: "\U0001F3C2"
+    replace: 🏂
   - trigger: ':weight lifting woman:'
-    replace: "\U0001F3CB️‍♀️"
+    replace: 🏋️‍♀️
   - trigger: ':gym:'
-    replace: "\U0001F3CB️‍♀️"
+    replace: 🏋️‍♀️
   - trigger: ':weight lifting man:'
-    replace: "\U0001F3CB"
+    replace: 🏋️‍♂️
   - trigger: ':person fencing:'
-    replace: "\U0001F93A"
+    replace: 🤺
   - trigger: ':women wrestling:'
-    replace: "\U0001F93C‍♀"
+    replace: 🤼‍♀️
   - trigger: ':men wrestling:'
-    replace: "\U0001F93C‍♂"
+    replace: 🤼‍♂️
   - trigger: ':woman cartwheeling:'
-    replace: "\U0001F938‍♀"
+    replace: 🤸‍♀️
   - trigger: ':man cartwheeling:'
-    replace: "\U0001F938‍♂"
+    replace: 🤸‍♂️
   - trigger: ':basketball woman:'
     replace: ⛹️‍♀️
   - trigger: ':basketball man:'
-    replace: ⛹
+    replace: ⛹️‍♂️
   - trigger: ':woman playing handball:'
-    replace: "\U0001F93E‍♀"
+    replace: 🤾‍♀️
   - trigger: ':man playing handball:'
-    replace: "\U0001F93E‍♂"
+    replace: 🤾‍♂️
   - trigger: ':golfing woman:'
-    replace: "\U0001F3CC️‍♀️"
+    replace: 🏌️‍♀️
   - trigger: ':golfing man:'
-    replace: "\U0001F3CC"
+    replace: 🏌️‍♂️
   - trigger: ':surfing woman:'
-    replace: "\U0001F3C4‍♀"
+    replace: 🏄‍♀️
   - trigger: ':surfing man:'
-    replace: "\U0001F3C4"
+    replace: 🏄‍♂️
   - trigger: ':surfer:'
-    replace: "\U0001F3C4"
+    replace: 🏄
   - trigger: ':surfing man:'
-    replace: "\U0001F3C4"
+    replace: 🏄‍♂️
   - trigger: ':swimming woman:'
-    replace: "\U0001F3CA‍♀"
+    replace: 🏊‍♀️
   - trigger: ':swimming man:'
-    replace: "\U0001F3CA"
+    replace: 🏊‍♂️
   - trigger: ':swimmer:'
-    replace: "\U0001F3CA"
+    replace: 🏊
   - trigger: ':swimming man:'
-    replace: "\U0001F3CA"
+    replace: 🏊‍♂️
   - trigger: ':woman playing water polo:'
-    replace: "\U0001F93D‍♀"
+    replace: 🤽‍♀️
   - trigger: ':man playing water polo:'
-    replace: "\U0001F93D‍♂"
+    replace: 🤽‍♂️
   - trigger: ':rowing woman:'
-    replace: "\U0001F6A3‍♀"
+    replace: 🚣‍♀️
   - trigger: ':rowing man:'
-    replace: "\U0001F6A3"
+    replace: 🚣‍♂️
   - trigger: ':rowboat:'
-    replace: "\U0001F6A3"
+    replace: 🚣
   - trigger: ':rowing man:'
-    replace: "\U0001F6A3"
+    replace: 🚣‍♂️
   - trigger: ':horse racing:'
-    replace: "\U0001F3C7"
+    replace: 🏇
   - trigger: ':biking woman:'
-    replace: "\U0001F6B4‍♀"
+    replace: 🚴‍♀️
   - trigger: ':biking man:'
-    replace: "\U0001F6B4"
+    replace: 🚴‍♂️
   - trigger: ':bicyclist:'
-    replace: "\U0001F6B4"
+    replace: 🚴
   - trigger: ':biking man:'
-    replace: "\U0001F6B4"
+    replace: 🚴‍♂️
   - trigger: ':mountain biking woman:'
-    replace: "\U0001F6B5‍♀"
+    replace: 🚵‍♀️
   - trigger: ':mountain biking man:'
-    replace: "\U0001F6B5"
+    replace: 🚵‍♂️
   - trigger: ':mountain bicyclist:'
-    replace: "\U0001F6B5"
+    replace: 🚵
   - trigger: ':mountain biking man:'
-    replace: "\U0001F6B5"
+    replace: 🚵‍♂️
   - trigger: ':running shirt with sash:'
-    replace: "\U0001F3BD"
+    replace: 🎽
   - trigger: ':medal sports:'
-    replace: "\U0001F3C5"
+    replace: 🏅
   - trigger: ':gold:'
-    replace: "\U0001F3C5"
+    replace: 🥇
   - trigger: ':winner:'
-    replace: "\U0001F3C5"
+    replace: 🏅
   - trigger: ':medal military:'
-    replace: "\U0001F396"
+    replace: 🎖️
   - trigger: ':1st place medal:'
-    replace: "\U0001F947"
+    replace: 🥇
   - trigger: ':2nd place medal:'
-    replace: "\U0001F948"
+    replace: 🥈
   - trigger: ':silver:'
-    replace: "\U0001F948"
+    replace: 🥈
   - trigger: ':3rd place medal:'
-    replace: "\U0001F949"
+    replace: 🥉
   - trigger: ':bronze:'
-    replace: "\U0001F949"
+    replace: 🥉
   - trigger: ':trophy:'
-    replace: "\U0001F3C6"
+    replace: 🏆
   - trigger: ':award:'
-    replace: "\U0001F3C6"
+    replace: 🏆
   - trigger: ':contest:'
-    replace: "\U0001F3C6"
+    replace: 🏆
   - trigger: ':rosette:'
-    replace: "\U0001F3F5"
+    replace: 🏵️
   - trigger: ':reminder ribbon:'
-    replace: "\U0001F397"
+    replace: 🎗️
   - trigger: ':ticket:'
-    replace: "\U0001F3AB"
+    replace: 🎫
   - trigger: ':tickets:'
-    replace: "\U0001F39F"
+    replace: 🎟️
   - trigger: ':circus tent:'
-    replace: "\U0001F3AA"
+    replace: 🎪
   - trigger: ':woman juggling:'
-    replace: "\U0001F939‍♀"
+    replace: 🤹‍♀️
   - trigger: ':man juggling:'
-    replace: "\U0001F939‍♂"
+    replace: 🤹‍♂️
   - trigger: ':performing arts:'
-    replace: "\U0001F3AD"
+    replace: 🎭
   - trigger: ':theater:'
-    replace: "\U0001F3AD"
+    replace: 🎭
   - trigger: ':drama:'
-    replace: "\U0001F3AD"
+    replace: 🎭
   - trigger: ':art:'
-    replace: "\U0001F3A8"
+    replace: 🎨
   - trigger: ':design:'
-    replace: "\U0001F3A8"
+    replace: 🎨
   - trigger: ':paint:'
-    replace: "\U0001F3A8"
+    replace: 🎨
   - trigger: ':clapper:'
-    replace: "\U0001F3AC"
+    replace: 🎬
   - trigger: ':film:'
-    replace: "\U0001F3AC"
+    replace: 🎦
   - trigger: ':microphone:'
-    replace: "\U0001F3A4"
+    replace: 🎤
   - trigger: ':sing:'
-    replace: "\U0001F3A4"
+    replace: 🎤
   - trigger: ':headphones:'
-    replace: "\U0001F3A7"
+    replace: 🎧
   - trigger: ':music:'
-    replace: "\U0001F3A7"
+    replace: 🎧
   - trigger: ':earphones:'
-    replace: "\U0001F3A7"
+    replace: 🎧
   - trigger: ':musical score:'
-    replace: "\U0001F3BC"
+    replace: 🎼
   - trigger: ':musical keyboard:'
-    replace: "\U0001F3B9"
+    replace: 🎹
   - trigger: ':piano:'
-    replace: "\U0001F3B9"
+    replace: 🎹
   - trigger: ':drum:'
-    replace: "\U0001F941"
+    replace: 🥁
   - trigger: ':saxophone:'
-    replace: "\U0001F3B7"
+    replace: 🎷
   - trigger: ':trumpet:'
-    replace: "\U0001F3BA"
+    replace: 🎺
   - trigger: ':guitar:'
-    replace: "\U0001F3B8"
+    replace: 🎸
   - trigger: ':rock:'
-    replace: "\U0001F3B8"
+    replace: 🎸
   - trigger: ':violin:'
-    replace: "\U0001F3BB"
+    replace: 🎻
   - trigger: ':game die:'
-    replace: "\U0001F3B2"
+    replace: 🎲
   - trigger: ':dice:'
-    replace: "\U0001F3B2"
+    replace: 🎲
   - trigger: ':gambling:'
-    replace: "\U0001F3B2"
+    replace: 🎲
   - trigger: ':dart:'
-    replace: "\U0001F3AF"
+    replace: 🎯
   - trigger: ':target:'
-    replace: "\U0001F3AF"
+    replace: 🎯
   - trigger: ':bowling:'
-    replace: "\U0001F3B3"
+    replace: 🎳
   - trigger: ':video game:'
-    replace: "\U0001F3AE"
+    replace: 🎮
   - trigger: ':play:'
-    replace: "\U0001F3AE"
+    replace: 🎮
   - trigger: ':controller:'
-    replace: "\U0001F3AE"
+    replace: 🎮
   - trigger: ':console:'
-    replace: "\U0001F3AE"
+    replace: 🎮
   - trigger: ':slot machine:'
-    replace: "\U0001F3B0"
+    replace: 🎰
   - trigger: ':car:'
-    replace: "\U0001F697"
+    replace: 🚗
   - trigger: ':red car:'
-    replace: "\U0001F697"
+    replace: 🚗
   - trigger: ':car:'
-    replace: "\U0001F697"
+    replace: 🚗
   - trigger: ':taxi:'
-    replace: "\U0001F695"
+    replace: 🚕
   - trigger: ':blue car:'
-    replace: "\U0001F699"
+    replace: 🚙
   - trigger: ':bus:'
-    replace: "\U0001F68C"
+    replace: 🚌
   - trigger: ':trolleybus:'
-    replace: "\U0001F68E"
+    replace: 🚎
   - trigger: ':racing car:'
-    replace: "\U0001F3CE"
+    replace: 🏎️
   - trigger: ':police car:'
-    replace: "\U0001F693"
+    replace: 🚓
   - trigger: ':ambulance:'
-    replace: "\U0001F691"
+    replace: 🚑
   - trigger: ':fire engine:'
-    replace: "\U0001F692"
+    replace: 🚒
   - trigger: ':minibus:'
-    replace: "\U0001F690"
+    replace: 🚐
   - trigger: ':truck:'
-    replace: "\U0001F69A"
+    replace: 🚚
   - trigger: ':articulated lorry:'
-    replace: "\U0001F69B"
+    replace: 🚛
   - trigger: ':tractor:'
-    replace: "\U0001F69C"
+    replace: 🚜
   - trigger: ':kick scooter:'
-    replace: "\U0001F6F4"
+    replace: 🛴
   - trigger: ':bike:'
-    replace: "\U0001F6B2"
+    replace: 🚲
   - trigger: ':bicycle:'
-    replace: "\U0001F6B2"
+    replace: 🚲
   - trigger: ':motor scooter:'
-    replace: "\U0001F6F5"
+    replace: 🛵
   - trigger: ':motorcycle:'
-    replace: "\U0001F3CD"
+    replace: 🏍️
   - trigger: ':rotating light:'
-    replace: "\U0001F6A8"
+    replace: 🚨
   - trigger: ':911:'
-    replace: "\U0001F6A8"
+    replace: 🚨
   - trigger: ':emergency:'
-    replace: "\U0001F6A8"
+    replace: 🆘
   - trigger: ':oncoming police car:'
-    replace: "\U0001F694"
+    replace: 🚔
   - trigger: ':oncoming bus:'
-    replace: "\U0001F68D"
+    replace: 🚍
   - trigger: ':oncoming automobile:'
-    replace: "\U0001F698"
+    replace: 🚘
   - trigger: ':oncoming taxi:'
-    replace: "\U0001F696"
+    replace: 🚖
   - trigger: ':aerial tramway:'
-    replace: "\U0001F6A1"
+    replace: 🚡
   - trigger: ':mountain cableway:'
-    replace: "\U0001F6A0"
+    replace: 🚠
   - trigger: ':suspension railway:'
-    replace: "\U0001F69F"
+    replace: 🚟
   - trigger: ':railway car:'
-    replace: "\U0001F683"
+    replace: 🚃
   - trigger: ':train:'
-    replace: "\U0001F68B"
+    replace: 🚋
   - trigger: ':mountain railway:'
-    replace: "\U0001F69E"
+    replace: 🚞
   - trigger: ':monorail:'
-    replace: "\U0001F69D"
+    replace: 🚝
   - trigger: ':bullettrain side:'
-    replace: "\U0001F684"
+    replace: 🚄
   - trigger: ':bullettrain front:'
-    replace: "\U0001F685"
+    replace: 🚅
   - trigger: ':light rail:'
-    replace: "\U0001F688"
+    replace: 🚈
   - trigger: ':steam locomotive:'
-    replace: "\U0001F682"
+    replace: 🚂
   - trigger: ':train2:'
-    replace: "\U0001F686"
+    replace: 🚆
   - trigger: ':metro:'
-    replace: "\U0001F687"
+    replace: 🚇
   - trigger: ':tram:'
-    replace: "\U0001F68A"
+    replace: 🚊
   - trigger: ':station:'
-    replace: "\U0001F689"
+    replace: 🚉
   - trigger: ':helicopter:'
-    replace: "\U0001F681"
+    replace: 🚁
   - trigger: ':small airplane:'
-    replace: "\U0001F6E9"
+    replace: 🛩️
   - trigger: ':flight:'
-    replace: "\U0001F6E9"
+    replace: 🛩️
   - trigger: ':airplane:'
     replace: ✈️
   - trigger: ':flight departure:'
-    replace: "\U0001F6EB"
+    replace: 🛫
   - trigger: ':flight arrival:'
-    replace: "\U0001F6EC"
+    replace: 🛬
   - trigger: ':rocket:'
-    replace: "\U0001F680"
+    replace: 🚀
   - trigger: ':launch:'
-    replace: "\U0001F680"
+    replace: 🚀
   - trigger: ':artificial satellite:'
-    replace: "\U0001F6F0"
+    replace: 🛰️
   - trigger: ':orbit:'
-    replace: "\U0001F6F0"
+    replace: 🛰️
   - trigger: ':seat:'
-    replace: "\U0001F4BA"
+    replace: 💺
   - trigger: ':canoe:'
-    replace: "\U0001F6F6"
+    replace: 🛶
   - trigger: ':boat:'
-    replace: ⛵️
+    replace: ⛵
   - trigger: ':sailboat:'
-    replace: ⛵️
+    replace: ⛵
   - trigger: ':boat:'
-    replace: ⛵️
+    replace: ⛵
   - trigger: ':motor boat:'
-    replace: "\U0001F6E5"
+    replace: 🛥️
   - trigger: ':speedboat:'
-    replace: "\U0001F6A4"
+    replace: 🚤
   - trigger: ':passenger ship:'
-    replace: "\U0001F6F3"
+    replace: 🛳️
   - trigger: ':cruise:'
-    replace: "\U0001F6F3"
+    replace: 🛳️
   - trigger: ':ferry:'
-    replace: ⛴
+    replace: ⛴️
   - trigger: ':ship:'
-    replace: "\U0001F6A2"
+    replace: 🚀
   - trigger: ':anchor:'
-    replace: ⚓️
+    replace: ⚓
   - trigger: ':construction:'
-    replace: "\U0001F6A7"
+    replace: 🚧
   - trigger: ':wip:'
-    replace: "\U0001F6A7"
+    replace: ⚠️
   - trigger: ':fuelpump:'
-    replace: ⛽️
+    replace: ⛽
   - trigger: ':busstop:'
-    replace: "\U0001F68F"
+    replace: 🚏
   - trigger: ':vertical traffic light:'
-    replace: "\U0001F6A6"
+    replace: 🚦
   - trigger: ':semaphore:'
-    replace: "\U0001F6A6"
+    replace: 🚦
   - trigger: ':traffic light:'
-    replace: "\U0001F6A5"
+    replace: 🚥
   - trigger: ':world map:'
-    replace: "\U0001F5FA"
+    replace: 🗺️
   - trigger: ':travel:'
-    replace: "\U0001F5FA"
+    replace: 🗺️
   - trigger: ':moyai:'
-    replace: "\U0001F5FF"
+    replace: 🗿
   - trigger: ':stone:'
-    replace: "\U0001F5FF"
+    replace: 🗿
   - trigger: ':statue of liberty:'
-    replace: "\U0001F5FD"
+    replace: 🗽
   - trigger: ':fountain:'
-    replace: ⛲️
+    replace: ⛲
   - trigger: ':tokyo tower:'
-    replace: "\U0001F5FC"
+    replace: 🗼
   - trigger: ':european castle:'
-    replace: "\U0001F3F0"
+    replace: 🏰
   - trigger: ':japanese castle:'
-    replace: "\U0001F3EF"
+    replace: 🏯
   - trigger: ':stadium:'
-    replace: "\U0001F3DF"
+    replace: 🏟️
   - trigger: ':ferris wheel:'
-    replace: "\U0001F3A1"
+    replace: 🎡
   - trigger: ':roller coaster:'
-    replace: "\U0001F3A2"
+    replace: 🎢
   - trigger: ':carousel horse:'
-    replace: "\U0001F3A0"
+    replace: 🎠
   - trigger: ':parasol on ground:'
-    replace: ⛱
+    replace: ⛱️
   - trigger: ':beach umbrella:'
-    replace: "\U0001F3D6"
+    replace: ⛱️
   - trigger: ':desert island:'
-    replace: "\U0001F3DD"
+    replace: 🏝️
   - trigger: ':mountain:'
-    replace: ⛰
+    replace: ⛰️
   - trigger: ':mountain snow:'
-    replace: "\U0001F3D4"
+    replace: 🏔️
   - trigger: ':mount fuji:'
-    replace: "\U0001F5FB"
+    replace: 🗻
   - trigger: ':volcano:'
-    replace: "\U0001F30B"
+    replace: 🌋
   - trigger: ':desert:'
-    replace: "\U0001F3DC"
+    replace: 🏜️
   - trigger: ':camping:'
-    replace: "\U0001F3D5"
+    replace: ⛺
   - trigger: ':tent:'
-    replace: ⛺️
+    replace: ⛺
   - trigger: ':railway track:'
-    replace: "\U0001F6E4"
+    replace: 🛤️
   - trigger: ':motorway:'
-    replace: "\U0001F6E3"
+    replace: 🛣️
   - trigger: ':building construction:'
-    replace: "\U0001F3D7"
+    replace: 🏗️
   - trigger: ':factory:'
-    replace: "\U0001F3ED"
+    replace: 🏭
   - trigger: ':house:'
-    replace: "\U0001F3E0"
+    replace: 🏠
   - trigger: ':house with garden:'
-    replace: "\U0001F3E1"
+    replace: 🏡
   - trigger: ':houses:'
-    replace: "\U0001F3D8"
+    replace: 🏘️
   - trigger: ':derelict house:'
-    replace: "\U0001F3DA"
+    replace: 🏚️
   - trigger: ':office:'
-    replace: "\U0001F3E2"
+    replace: 🏢
   - trigger: ':department store:'
-    replace: "\U0001F3EC"
+    replace: 🏬
   - trigger: ':post office:'
-    replace: "\U0001F3E3"
+    replace: 🏣
   - trigger: ':european post office:'
-    replace: "\U0001F3E4"
+    replace: 🏤
   - trigger: ':hospital:'
-    replace: "\U0001F3E5"
+    replace: 💉
   - trigger: ':bank:'
-    replace: "\U0001F3E6"
+    replace: 🏦
   - trigger: ':hotel:'
-    replace: "\U0001F3E8"
+    replace: 🏨
   - trigger: ':convenience store:'
-    replace: "\U0001F3EA"
+    replace: 🏪
   - trigger: ':school:'
-    replace: "\U0001F3EB"
+    replace: 🏫
   - trigger: ':love hotel:'
-    replace: "\U0001F3E9"
+    replace: 🏩
   - trigger: ':wedding:'
-    replace: "\U0001F492"
+    replace: 💍
   - trigger: ':classical building:'
-    replace: "\U0001F3DB"
+    replace: 🏛️
   - trigger: ':church:'
-    replace: ⛪️
+    replace: ⛪
   - trigger: ':mosque:'
-    replace: "\U0001F54C"
+    replace: 🕌
   - trigger: ':synagogue:'
-    replace: "\U0001F54D"
+    replace: 🕍
   - trigger: ':kaaba:'
-    replace: "\U0001F54B"
+    replace: 🕋
   - trigger: ':shinto shrine:'
-    replace: ⛩
+    replace: ⛩️
   - trigger: ':japan:'
-    replace: "\U0001F5FE"
+    replace: 🇯🇵
   - trigger: ':rice scene:'
-    replace: "\U0001F391"
+    replace: 🎑
   - trigger: ':national park:'
-    replace: "\U0001F3DE"
+    replace: 🏞️
   - trigger: ':sunrise:'
-    replace: "\U0001F305"
+    replace: 🌅
   - trigger: ':sunrise over mountains:'
-    replace: "\U0001F304"
+    replace: 🌄
   - trigger: ':stars:'
-    replace: "\U0001F320"
+    replace: 🌠
   - trigger: ':sparkler:'
-    replace: "\U0001F387"
+    replace: 🎇
   - trigger: ':fireworks:'
-    replace: "\U0001F386"
+    replace: 🎆
   - trigger: ':festival:'
-    replace: "\U0001F386"
+    replace: 🎆
   - trigger: ':city sunrise:'
-    replace: "\U0001F307"
+    replace: 🌇
   - trigger: ':city sunset:'
-    replace: "\U0001F306"
+    replace: 🌆
   - trigger: ':cityscape:'
-    replace: "\U0001F3D9"
+    replace: 🏙️
   - trigger: ':skyline:'
-    replace: "\U0001F3D9"
+    replace: 🏙️
   - trigger: ':night with stars:'
-    replace: "\U0001F303"
+    replace: 🌃
   - trigger: ':milky way:'
-    replace: "\U0001F30C"
+    replace: 🌌
   - trigger: ':bridge at night:'
-    replace: "\U0001F309"
+    replace: 🌉
   - trigger: ':foggy:'
-    replace: "\U0001F301"
+    replace: 🌁
   - trigger: ':karl:'
-    replace: "\U0001F301"
+    replace: 🌁
   - trigger: ':watch:'
-    replace: ⌚️
+    replace: ⌚
   - trigger: ':time:'
-    replace: ⌚️
+    replace: ⌚
   - trigger: ':iphone:'
-    replace: "\U0001F4F1"
+    replace: 📱
   - trigger: ':smartphone:'
-    replace: "\U0001F4F1"
+    replace: 📱
   - trigger: ':mobile:'
-    replace: "\U0001F4F1"
+    replace: 📱
   - trigger: ':calling:'
-    replace: "\U0001F4F2"
+    replace: 📲
   - trigger: ':call:'
-    replace: "\U0001F4F2"
+    replace: 📞
   - trigger: ':incoming:'
-    replace: "\U0001F4F2"
+    replace: 📲
   - trigger: ':computer:'
-    replace: "\U0001F4BB"
+    replace: 💻
   - trigger: ':desktop:'
-    replace: "\U0001F4BB"
+    replace: 💻
   - trigger: ':screen:'
-    replace: "\U0001F4BB"
+    replace: 💻
   - trigger: ':keyboard:'
     replace: ⌨️
   - trigger: ':desktop computer:'
-    replace: "\U0001F5A5"
+    replace: 🖥️
   - trigger: ':printer:'
-    replace: "\U0001F5A8"
+    replace: 🖨️
   - trigger: ':computer mouse:'
-    replace: "\U0001F5B1"
+    replace: 🖱️
   - trigger: ':trackball:'
-    replace: "\U0001F5B2"
+    replace: 🖲️
   - trigger: ':joystick:'
-    replace: "\U0001F579"
+    replace: 🕹️
   - trigger: ':clamp:'
-    replace: "\U0001F5DC"
+    replace: 🗜️
   - trigger: ':minidisc:'
-    replace: "\U0001F4BD"
+    replace: 💽
   - trigger: ':floppy disk:'
-    replace: "\U0001F4BE"
+    replace: 💾
   - trigger: ':save:'
-    replace: "\U0001F4BE"
+    replace: 💾
   - trigger: ':cd:'
-    replace: "\U0001F4BF"
+    replace: 💿
   - trigger: ':dvd:'
-    replace: "\U0001F4C0"
+    replace: 📀
   - trigger: ':vhs:'
-    replace: "\U0001F4FC"
+    replace: 📼
   - trigger: ':camera:'
-    replace: "\U0001F4F7"
+    replace: 📷
   - trigger: ':photo:'
-    replace: "\U0001F4F7"
+    replace: 📸
   - trigger: ':camera flash:'
-    replace: "\U0001F4F8"
+    replace: 📸
   - trigger: ':video camera:'
-    replace: "\U0001F4F9"
+    replace: 📹
   - trigger: ':movie camera:'
-    replace: "\U0001F3A5"
+    replace: 🎥
   - trigger: ':video:'
-    replace: "\U0001F3A5"
+    replace: 🎥
   - trigger: ':film projector:'
-    replace: "\U0001F4FD"
+    replace: 📽️
   - trigger: ':film strip:'
-    replace: "\U0001F39E"
+    replace: 🎞️
   - trigger: ':telephone receiver:'
-    replace: "\U0001F4DE"
+    replace: 📞
   - trigger: ':phone:'
-    replace: ☎️
+    replace: 📞
   - trigger: ':telephone:'
     replace: ☎️
   - trigger: ':phone:'
-    replace: ☎️
+    replace: 📞
   - trigger: ':pager:'
-    replace: "\U0001F4DF"
+    replace: 📟
   - trigger: ':fax:'
-    replace: "\U0001F4E0"
+    replace: 📠
   - trigger: ':tv:'
-    replace: "\U0001F4FA"
+    replace: 📺
   - trigger: ':radio:'
-    replace: "\U0001F4FB"
+    replace: 📻
   - trigger: ':podcast:'
-    replace: "\U0001F4FB"
+    replace: 📻
   - trigger: ':studio microphone:'
-    replace: "\U0001F399"
+    replace: 🎙️
   - trigger: ':level slider:'
-    replace: "\U0001F39A"
+    replace: 🎚️
   - trigger: ':control knobs:'
-    replace: "\U0001F39B"
+    replace: 🎛️
   - trigger: ':stopwatch:'
-    replace: ⏱
+    replace: ⏱️
   - trigger: ':timer clock:'
-    replace: ⏲
+    replace: ⏲️
   - trigger: ':alarm clock:'
     replace: ⏰
   - trigger: ':morning:'
     replace: ⏰
   - trigger: ':mantelpiece clock:'
-    replace: "\U0001F570"
+    replace: 🕰️
   - trigger: ':hourglass:'
-    replace: ⌛️
+    replace: ⌛
   - trigger: ':hourglass flowing sand:'
     replace: ⏳
   - trigger: ':satellite:'
-    replace: "\U0001F4E1"
+    replace: 📡
   - trigger: ':signal:'
-    replace: "\U0001F4E1"
+    replace: 📡
   - trigger: ':battery:'
-    replace: "\U0001F50B"
+    replace: 🔋
   - trigger: ':electric plug:'
-    replace: "\U0001F50C"
+    replace: 🔌
   - trigger: ':bulb:'
-    replace: "\U0001F4A1"
+    replace: 💡
   - trigger: ':idea:'
-    replace: "\U0001F4A1"
+    replace: 💡
   - trigger: ':light:'
-    replace: "\U0001F4A1"
+    replace: 💡
   - trigger: ':flashlight:'
-    replace: "\U0001F526"
+    replace: 🔦
   - trigger: ':candle:'
-    replace: "\U0001F56F"
+    replace: 🕯️
   - trigger: ':wastebasket:'
-    replace: "\U0001F5D1"
+    replace: 🗑️
   - trigger: ':trash:'
-    replace: "\U0001F5D1"
+    replace: 🗑️
   - trigger: ':oil drum:'
-    replace: "\U0001F6E2"
+    replace: 🛢️
   - trigger: ':money with wings:'
-    replace: "\U0001F4B8"
+    replace: 💸
   - trigger: ':dollar:'
-    replace: "\U0001F4B5"
+    replace: 💸
   - trigger: ':money:'
-    replace: "\U0001F4B5"
+    replace: 💵
   - trigger: ':yen:'
-    replace: "\U0001F4B4"
+    replace: 💴
   - trigger: ':euro:'
-    replace: "\U0001F4B6"
+    replace: 💶
   - trigger: ':pound:'
-    replace: "\U0001F4B7"
+    replace: 💷
   - trigger: ':moneybag:'
-    replace: "\U0001F4B0"
+    replace: 💰
   - trigger: ':cream:'
-    replace: "\U0001F4B0"
+    replace: 💰
   - trigger: ':credit card:'
-    replace: "\U0001F4B3"
+    replace: 💳
   - trigger: ':subscription:'
-    replace: "\U0001F4B3"
+    replace: 💳
   - trigger: ':gem:'
-    replace: "\U0001F48E"
+    replace: 💎
   - trigger: ':diamond:'
-    replace: "\U0001F48E"
+    replace: 💎
   - trigger: ':balance scale:'
     replace: ⚖️
   - trigger: ':wrench:'
-    replace: "\U0001F527"
+    replace: 🔧
   - trigger: ':tool:'
-    replace: "\U0001F527"
+    replace: 🔧
   - trigger: ':hammer:'
-    replace: "\U0001F528"
+    replace: 🔨
   - trigger: ':hammer and pick:'
-    replace: ⚒
+    replace: ⚒️
   - trigger: ':hammer and wrench:'
-    replace: "\U0001F6E0"
+    replace: 🛠️
   - trigger: ':pick:'
-    replace: ⛏
+    replace: ⛏️
   - trigger: ':nut and bolt:'
-    replace: "\U0001F529"
+    replace: 🔩
   - trigger: ':gear:'
     replace: ⚙️
   - trigger: ':chains:'
-    replace: ⛓
+    replace: ⛓️
   - trigger: ':gun:'
-    replace: "\U0001F52B"
+    replace: 🔫
   - trigger: ':shoot:'
-    replace: "\U0001F52B"
+    replace: 🔫
   - trigger: ':weapon:'
-    replace: "\U0001F52B"
+    replace: 🔫
   - trigger: ':bomb:'
-    replace: "\U0001F4A3"
+    replace: 💣
   - trigger: ':hocho:'
-    replace: "\U0001F52A"
+    replace: 🔪
   - trigger: ':knife:'
-    replace: "\U0001F52A"
+    replace: 🔪
   - trigger: ':cut:'
-    replace: "\U0001F52A"
+    replace: ✂️
   - trigger: ':chop:'
-    replace: "\U0001F52A"
+    replace: 🔪
   - trigger: ':hocho:'
-    replace: "\U0001F52A"
+    replace: 🔪
   - trigger: ':dagger:'
-    replace: "\U0001F5E1"
+    replace: 🗡️
   - trigger: ':crossed swords:'
     replace: ⚔️
   - trigger: ':shield:'
-    replace: "\U0001F6E1"
+    replace: 🛡️
   - trigger: ':smoking:'
-    replace: "\U0001F6AC"
+    replace: 🚬
   - trigger: ':cigarette:'
-    replace: "\U0001F6AC"
+    replace: 🚬
   - trigger: ':coffin:'
     replace: ⚰️
   - trigger: ':funeral:'
@@ -2399,313 +2395,313 @@ matches:
   - trigger: ':funeral urn:'
     replace: ⚱️
   - trigger: ':amphora:'
-    replace: "\U0001F3FA"
+    replace: 🏺
   - trigger: ':crystal ball:'
-    replace: "\U0001F52E"
+    replace: 🔮
   - trigger: ':fortune:'
-    replace: "\U0001F52E"
+    replace: 🔮
   - trigger: ':prayer beads:'
-    replace: "\U0001F4FF"
+    replace: 📿
   - trigger: ':barber:'
-    replace: "\U0001F488"
+    replace: 💈
   - trigger: ':alembic:'
     replace: ⚗️
   - trigger: ':telescope:'
-    replace: "\U0001F52D"
+    replace: 🔭
   - trigger: ':microscope:'
-    replace: "\U0001F52C"
+    replace: 🔬
   - trigger: ':science:'
-    replace: "\U0001F52C"
+    replace: 🔬
   - trigger: ':laboratory:'
-    replace: "\U0001F52C"
+    replace: 🔬
   - trigger: ':investigate:'
-    replace: "\U0001F52C"
+    replace: 🔬
   - trigger: ':hole:'
-    replace: "\U0001F573"
+    replace: 🕳️
   - trigger: ':pill:'
-    replace: "\U0001F48A"
+    replace: 💊
   - trigger: ':health:'
-    replace: "\U0001F48A"
+    replace: 💊
   - trigger: ':medicine:'
-    replace: "\U0001F48A"
+    replace: 💊
   - trigger: ':syringe:'
-    replace: "\U0001F489"
+    replace: 💉
   - trigger: ':needle:'
-    replace: "\U0001F489"
+    replace: 💉
   - trigger: ':thermometer:'
-    replace: "\U0001F321"
+    replace: 🌡️
   - trigger: ':toilet:'
-    replace: "\U0001F6BD"
+    replace: 🚾
   - trigger: ':potable water:'
-    replace: "\U0001F6B0"
+    replace: 🚰
   - trigger: ':shower:'
-    replace: "\U0001F6BF"
+    replace: 🚿
   - trigger: ':bathtub:'
-    replace: "\U0001F6C1"
+    replace: 🛁
   - trigger: ':bath:'
-    replace: "\U0001F6C0"
+    replace: 🚿
   - trigger: ':bellhop bell:'
-    replace: "\U0001F6CE"
+    replace: 🛎️
   - trigger: ':key:'
-    replace: "\U0001F511"
+    replace: 🔑
   - trigger: ':password:'
-    replace: "\U0001F511"
+    replace: 🔑
   - trigger: ':old key:'
-    replace: "\U0001F5DD"
+    replace: 🗝️
   - trigger: ':door:'
-    replace: "\U0001F6AA"
+    replace: 🚪
   - trigger: ':couch and lamp:'
-    replace: "\U0001F6CB"
+    replace: 🛋️
   - trigger: ':bed:'
-    replace: "\U0001F6CF"
+    replace: 🛏️
   - trigger: ':sleeping bed:'
-    replace: "\U0001F6CC"
+    replace: 🛌
   - trigger: ':framed picture:'
-    replace: "\U0001F5BC"
+    replace: 🖼️
   - trigger: ':shopping:'
-    replace: "\U0001F6CD"
+    replace: 🛍️
   - trigger: ':bags:'
-    replace: "\U0001F6CD"
+    replace: 🛍️
   - trigger: ':shopping cart:'
-    replace: "\U0001F6D2"
+    replace: 🛒
   - trigger: ':gift:'
-    replace: "\U0001F381"
+    replace: 🎁
   - trigger: ':present:'
-    replace: "\U0001F381"
+    replace: 🎁
   - trigger: ':balloon:'
-    replace: "\U0001F388"
+    replace: 🎈
   - trigger: ':flags:'
-    replace: "\U0001F38F"
+    replace: 🎏
   - trigger: ':ribbon:'
-    replace: "\U0001F380"
+    replace: 🎀
   - trigger: ':confetti ball:'
-    replace: "\U0001F38A"
+    replace: 🎊
   - trigger: ':tada:'
-    replace: "\U0001F389"
+    replace: 🎉
   - trigger: ':dolls:'
-    replace: "\U0001F38E"
+    replace: 🎎
   - trigger: ':izakaya lantern:'
-    replace: "\U0001F3EE"
+    replace: 🏮
   - trigger: ':lantern:'
-    replace: "\U0001F3EE"
+    replace: 🏮
   - trigger: ':izakaya lantern:'
-    replace: "\U0001F3EE"
+    replace: 🏮
   - trigger: ':wind chime:'
-    replace: "\U0001F390"
+    replace: 🎐
   - trigger: ':email:'
-    replace: ✉️
+    replace: 📧
   - trigger: ':envelope:'
     replace: ✉️
   - trigger: ':letter:'
     replace: ✉️
   - trigger: ':email:'
-    replace: ✉️
+    replace: 📧
   - trigger: ':envelope with arrow:'
-    replace: "\U0001F4E9"
+    replace: 📩
   - trigger: ':incoming envelope:'
-    replace: "\U0001F4E8"
+    replace: 📨
   - trigger: ':e-mail:'
-    replace: "\U0001F4E7"
+    replace: 📧
   - trigger: ':love letter:'
-    replace: "\U0001F48C"
+    replace: 💌
   - trigger: ':inbox tray:'
-    replace: "\U0001F4E5"
+    replace: 📥
   - trigger: ':outbox tray:'
-    replace: "\U0001F4E4"
+    replace: 📤
   - trigger: ':package:'
-    replace: "\U0001F4E6"
+    replace: 📦
   - trigger: ':shipping:'
-    replace: "\U0001F4E6"
+    replace: 📦
   - trigger: ':label:'
-    replace: "\U0001F3F7"
+    replace: 🏷️
   - trigger: ':tag:'
-    replace: "\U0001F3F7"
+    replace: 🏷️
   - trigger: ':mailbox closed:'
-    replace: "\U0001F4EA"
+    replace: 📪
   - trigger: ':mailbox:'
-    replace: "\U0001F4EB"
+    replace: 📫
   - trigger: ':mailbox with mail:'
-    replace: "\U0001F4EC"
+    replace: 📬
   - trigger: ':mailbox with no mail:'
-    replace: "\U0001F4ED"
+    replace: 📭
   - trigger: ':postbox:'
-    replace: "\U0001F4EE"
+    replace: 📮
   - trigger: ':postal horn:'
-    replace: "\U0001F4EF"
+    replace: 📯
   - trigger: ':scroll:'
-    replace: "\U0001F4DC"
+    replace: 📜
   - trigger: ':document:'
-    replace: "\U0001F4DC"
+    replace: 📝
   - trigger: ':page with curl:'
-    replace: "\U0001F4C3"
+    replace: 📃
   - trigger: ':page facing up:'
-    replace: "\U0001F4C4"
+    replace: 📄
   - trigger: ':bookmark tabs:'
-    replace: "\U0001F4D1"
+    replace: 📑
   - trigger: ':bar chart:'
-    replace: "\U0001F4CA"
+    replace: 📊
   - trigger: ':stats:'
-    replace: "\U0001F4CA"
+    replace: 📊
   - trigger: ':metrics:'
-    replace: "\U0001F4CA"
+    replace: 📊
   - trigger: ':chart with upwards trend:'
-    replace: "\U0001F4C8"
+    replace: 📈
   - trigger: ':graph:'
-    replace: "\U0001F4C8"
+    replace: 📉
   - trigger: ':chart with downwards trend:'
-    replace: "\U0001F4C9"
+    replace: 📉
   - trigger: ':spiral notepad:'
-    replace: "\U0001F5D2"
+    replace: 🗒️
   - trigger: ':spiral calendar:'
-    replace: "\U0001F5D3"
+    replace: 🗓️
   - trigger: ':calendar:'
-    replace: "\U0001F4C6"
+    replace: 📆
   - trigger: ':schedule:'
-    replace: "\U0001F4C6"
+    replace: 📆
   - trigger: ':date:'
-    replace: "\U0001F4C5"
+    replace: 📅
   - trigger: ':card index:'
-    replace: "\U0001F4C7"
+    replace: 📇
   - trigger: ':card file box:'
-    replace: "\U0001F5C3"
+    replace: 🗃️
   - trigger: ':ballot box:'
-    replace: "\U0001F5F3"
+    replace: 🗳️
   - trigger: ':file cabinet:'
-    replace: "\U0001F5C4"
+    replace: 🗄️
   - trigger: ':clipboard:'
-    replace: "\U0001F4CB"
+    replace: 📋
   - trigger: ':file folder:'
-    replace: "\U0001F4C1"
+    replace: 📁
   - trigger: ':directory:'
-    replace: "\U0001F4C1"
+    replace: 📁
   - trigger: ':open file folder:'
-    replace: "\U0001F4C2"
+    replace: 📂
   - trigger: ':card index dividers:'
-    replace: "\U0001F5C2"
+    replace: 🗂️
   - trigger: ':newspaper roll:'
-    replace: "\U0001F5DE"
+    replace: 🗞️
   - trigger: ':press:'
-    replace: "\U0001F5DE"
+    replace: 🗞️
   - trigger: ':newspaper:'
-    replace: "\U0001F4F0"
+    replace: 📰
   - trigger: ':notebook:'
-    replace: "\U0001F4D3"
+    replace: 📓
   - trigger: ':notebook with decorative cover:'
-    replace: "\U0001F4D4"
+    replace: 📔
   - trigger: ':ledger:'
-    replace: "\U0001F4D2"
+    replace: 📒
   - trigger: ':closed book:'
-    replace: "\U0001F4D5"
+    replace: 📕
   - trigger: ':green book:'
-    replace: "\U0001F4D7"
+    replace: 📗
   - trigger: ':blue book:'
-    replace: "\U0001F4D8"
+    replace: 📘
   - trigger: ':orange book:'
-    replace: "\U0001F4D9"
+    replace: 📙
   - trigger: ':books:'
-    replace: "\U0001F4DA"
+    replace: 📚
   - trigger: ':library:'
-    replace: "\U0001F4DA"
+    replace: 📚
   - trigger: ':book:'
-    replace: "\U0001F4D6"
+    replace: 📖
   - trigger: ':open book:'
-    replace: "\U0001F4D6"
+    replace: 📖
   - trigger: ':book:'
-    replace: "\U0001F4D6"
+    replace: 📖
   - trigger: ':bookmark:'
-    replace: "\U0001F516"
+    replace: 🔖
   - trigger: ':link:'
-    replace: "\U0001F517"
+    replace: 🔗
   - trigger: ':paperclip:'
-    replace: "\U0001F4CE"
+    replace: 📎
   - trigger: ':paperclips:'
-    replace: "\U0001F587"
+    replace: 🖇️
   - trigger: ':triangular ruler:'
-    replace: "\U0001F4D0"
+    replace: 📐
   - trigger: ':straight ruler:'
-    replace: "\U0001F4CF"
+    replace: 📏
   - trigger: ':pushpin:'
-    replace: "\U0001F4CC"
+    replace: 📌
   - trigger: ':location:'
-    replace: "\U0001F4CC"
+    replace: 📍
   - trigger: ':round pushpin:'
-    replace: "\U0001F4CD"
+    replace: 📍
   - trigger: ':scissors:'
     replace: ✂️
   - trigger: ':pen:'
-    replace: "\U0001F58A"
+    replace: 🖊️
   - trigger: ':fountain pen:'
-    replace: "\U0001F58B"
+    replace: 🖋️
   - trigger: ':black nib:'
     replace: ✒️
   - trigger: ':paintbrush:'
-    replace: "\U0001F58C"
+    replace: 🖌️
   - trigger: ':crayon:'
-    replace: "\U0001F58D"
+    replace: 🖍️
   - trigger: ':memo:'
-    replace: "\U0001F4DD"
+    replace: 📝
   - trigger: ':pencil:'
-    replace: "\U0001F4DD"
+    replace: 📝
   - trigger: ':note:'
-    replace: "\U0001F4DD"
+    replace: 📝
   - trigger: ':memo:'
-    replace: "\U0001F4DD"
+    replace: 📝
   - trigger: ':pencil2:'
     replace: ✏️
   - trigger: ':mag:'
-    replace: "\U0001F50D"
+    replace: 🔍
   - trigger: ':search:'
-    replace: "\U0001F50D"
+    replace: 🔍
   - trigger: ':zoom:'
-    replace: "\U0001F50D"
+    replace: 🔍
   - trigger: ':mag right:'
-    replace: "\U0001F50E"
+    replace: 🔎
   - trigger: ':lock with ink pen:'
-    replace: "\U0001F50F"
+    replace: 🔏
   - trigger: ':closed lock with key:'
-    replace: "\U0001F510"
+    replace: 🔐
   - trigger: ':security:'
-    replace: "\U0001F510"
+    replace: 🔐
   - trigger: ':lock:'
-    replace: "\U0001F512"
+    replace: 🔑
   - trigger: ':private:'
-    replace: "\U0001F512"
+    replace: 🔒
   - trigger: ':unlock:'
-    replace: "\U0001F513"
+    replace: 🔓
   - trigger: ':heart:'
     replace: ❤️
   - trigger: ':yellow heart:'
-    replace: "\U0001F49B"
+    replace: 💛
   - trigger: ':green heart:'
-    replace: "\U0001F49A"
+    replace: 💚
   - trigger: ':blue heart:'
-    replace: "\U0001F499"
+    replace: 💙
   - trigger: ':purple heart:'
-    replace: "\U0001F49C"
+    replace: 💜
   - trigger: ':black heart:'
-    replace: "\U0001F5A4"
+    replace: 🖤
   - trigger: ':broken heart:'
-    replace: "\U0001F494"
+    replace: 💔
   - trigger: ':heavy heart exclamation:'
     replace: ❣️
   - trigger: ':two hearts:'
-    replace: "\U0001F495"
+    replace: 💕
   - trigger: ':revolving hearts:'
-    replace: "\U0001F49E"
+    replace: 💞
   - trigger: ':heartbeat:'
-    replace: "\U0001F493"
+    replace: 💓
   - trigger: ':heartpulse:'
-    replace: "\U0001F497"
+    replace: 💗
   - trigger: ':sparkling heart:'
-    replace: "\U0001F496"
+    replace: 💖
   - trigger: ':cupid:'
-    replace: "\U0001F498"
+    replace: 💘
   - trigger: ':gift heart:'
-    replace: "\U0001F49D"
+    replace: 💝
   - trigger: ':chocolates:'
-    replace: "\U0001F49D"
+    replace: 💝
   - trigger: ':heart decoration:'
-    replace: "\U0001F49F"
+    replace: 💟
   - trigger: ':peace symbol:'
     replace: ☮️
   - trigger: ':latin cross:'
@@ -2713,151 +2709,151 @@ matches:
   - trigger: ':star and crescent:'
     replace: ☪️
   - trigger: ':om:'
-    replace: "\U0001F549"
+    replace: 🕉️
   - trigger: ':wheel of dharma:'
     replace: ☸️
   - trigger: ':star of david:'
     replace: ✡️
   - trigger: ':six pointed star:'
-    replace: "\U0001F52F"
+    replace: 🔯
   - trigger: ':menorah:'
-    replace: "\U0001F54E"
+    replace: 🕎
   - trigger: ':yin yang:'
     replace: ☯️
   - trigger: ':orthodox cross:'
     replace: ☦️
   - trigger: ':place of worship:'
-    replace: "\U0001F6D0"
+    replace: 🛐
   - trigger: ':ophiuchus:'
     replace: ⛎
   - trigger: ':aries:'
-    replace: ♈️
+    replace: ♈
   - trigger: ':taurus:'
-    replace: ♉️
+    replace: ♉
   - trigger: ':gemini:'
-    replace: ♊️
+    replace: ♊
   - trigger: ':cancer:'
-    replace: ♋️
+    replace: ♋
   - trigger: ':leo:'
-    replace: ♌️
+    replace: ♌
   - trigger: ':virgo:'
-    replace: ♍️
+    replace: ♍
   - trigger: ':libra:'
-    replace: ♎️
+    replace: ♎
   - trigger: ':scorpius:'
-    replace: ♏️
+    replace: ♏
   - trigger: ':sagittarius:'
-    replace: ♐️
+    replace: ♐
   - trigger: ':capricorn:'
-    replace: ♑️
+    replace: ♑
   - trigger: ':aquarius:'
-    replace: ♒️
+    replace: ♒
   - trigger: ':pisces:'
-    replace: ♓️
+    replace: ♓
   - trigger: ':id:'
-    replace: "\U0001F194"
+    replace: 🆔
   - trigger: ':atom symbol:'
     replace: ⚛️
   - trigger: ':accept:'
-    replace: "\U0001F251"
+    replace: 🉑
   - trigger: ':radioactive:'
     replace: ☢️
   - trigger: ':biohazard:'
     replace: ☣️
   - trigger: ':mobile phone off:'
-    replace: "\U0001F4F4"
+    replace: 📴
   - trigger: ':off:'
-    replace: "\U0001F4F4"
+    replace: 📴
   - trigger: ':vibration mode:'
-    replace: "\U0001F4F3"
+    replace: 📳
   - trigger: ':u6709:'
-    replace: "\U0001F236"
+    replace: 🈶
   - trigger: ':u7121:'
-    replace: "\U0001F21A️"
+    replace: 🈚
   - trigger: ':u7533:'
-    replace: "\U0001F238"
+    replace: 🈸
   - trigger: ':u55b6:'
-    replace: "\U0001F23A"
+    replace: 🈺
   - trigger: ':u6708:'
-    replace: "\U0001F237️"
+    replace: 🈷️
   - trigger: ':eight pointed black star:'
     replace: ✴️
   - trigger: ':vs:'
-    replace: "\U0001F19A"
+    replace: 🆚
   - trigger: ':white flower:'
-    replace: "\U0001F4AE"
+    replace: 💮
   - trigger: ':ideograph advantage:'
-    replace: "\U0001F250"
+    replace: 🉐
   - trigger: ':secret:'
     replace: ㊙️
   - trigger: ':congratulations:'
     replace: ㊗️
   - trigger: ':u5408:'
-    replace: "\U0001F234"
+    replace: 🈴
   - trigger: ':u6e80:'
-    replace: "\U0001F235"
+    replace: 🈵
   - trigger: ':u5272:'
-    replace: "\U0001F239"
+    replace: 🈹
   - trigger: ':u7981:'
-    replace: "\U0001F232"
+    replace: 🈲
   - trigger: ':a:'
-    replace: "\U0001F170️"
+    replace: 🅰️
   - trigger: ':b:'
-    replace: "\U0001F171️"
+    replace: 🅱️
   - trigger: ':ab:'
-    replace: "\U0001F18E"
+    replace: 🆎
   - trigger: ':cl:'
-    replace: "\U0001F191"
+    replace: 🆑
   - trigger: ':o2:'
-    replace: "\U0001F17E️"
+    replace: 🅾️
   - trigger: ':sos:'
-    replace: "\U0001F198"
+    replace: 🆘
   - trigger: ':help:'
-    replace: "\U0001F198"
+    replace: 🆘
   - trigger: ':x:'
     replace: ❌
   - trigger: ':o:'
-    replace: ⭕️
+    replace: ⭕
   - trigger: ':stop sign:'
-    replace: "\U0001F6D1"
+    replace: 🛑
   - trigger: ':no entry:'
-    replace: ⛔️
+    replace: ⛔
   - trigger: ':limit:'
-    replace: ⛔️
+    replace: ⛔
   - trigger: ':name badge:'
-    replace: "\U0001F4DB"
+    replace: 📛
   - trigger: ':no entry sign:'
-    replace: "\U0001F6AB"
+    replace: 🚫
   - trigger: ':block:'
-    replace: "\U0001F6AB"
+    replace: 🚫
   - trigger: ':forbidden:'
-    replace: "\U0001F6AB"
+    replace: 🚫
   - trigger: ':anger:'
-    replace: "\U0001F4A2"
+    replace: 💢
   - trigger: ':hotsprings:'
     replace: ♨️
   - trigger: ':no pedestrians:'
-    replace: "\U0001F6B7"
+    replace: 🚷
   - trigger: ':do not litter:'
-    replace: "\U0001F6AF"
+    replace: 🚯
   - trigger: ':no bicycles:'
-    replace: "\U0001F6B3"
+    replace: 🚳
   - trigger: ':non-potable water:'
-    replace: "\U0001F6B1"
+    replace: 🚱
   - trigger: ':underage:'
-    replace: "\U0001F51E"
+    replace: 🔞
   - trigger: ':no mobile phones:'
-    replace: "\U0001F4F5"
+    replace: 📵
   - trigger: ':no smoking:'
-    replace: "\U0001F6AD"
+    replace: 🚭
   - trigger: ':exclamation:'
-    replace: ❗️
+    replace: ❗
   - trigger: ':heavy exclamation mark:'
-    replace: ❗️
+    replace: ❗
   - trigger: ':bang:'
-    replace: ❗️
+    replace: ❗
   - trigger: ':exclamation:'
-    replace: ❗️
+    replace: ❗
   - trigger: ':grey exclamation:'
     replace: ❕
   - trigger: ':question:'
@@ -2869,21 +2865,21 @@ matches:
   - trigger: ':interrobang:'
     replace: ⁉️
   - trigger: ':low brightness:'
-    replace: "\U0001F505"
+    replace: 🔅
   - trigger: ':high brightness:'
-    replace: "\U0001F506"
+    replace: 🔆
   - trigger: ':part alternation mark:'
     replace: 〽️
   - trigger: ':warning:'
     replace: ⚠️
   - trigger: ':children crossing:'
-    replace: "\U0001F6B8"
+    replace: 🚸
   - trigger: ':trident:'
-    replace: "\U0001F531"
+    replace: 🔱
   - trigger: ':fleur de lis:'
     replace: ⚜️
   - trigger: ':beginner:'
-    replace: "\U0001F530"
+    replace: 🔰
   - trigger: ':recycle:'
     replace: ♻️
   - trigger: ':environment:'
@@ -2891,9 +2887,9 @@ matches:
   - trigger: ':white check mark:'
     replace: ✅
   - trigger: ':u6307:'
-    replace: "\U0001F22F️"
+    replace: 🈯
   - trigger: ':chart:'
-    replace: "\U0001F4B9"
+    replace: 💹
   - trigger: ':sparkle:'
     replace: ❇️
   - trigger: ':eight spoked asterisk:'
@@ -2901,93 +2897,93 @@ matches:
   - trigger: ':negative squared cross mark:'
     replace: ❎
   - trigger: ':globe with meridians:'
-    replace: "\U0001F310"
+    replace: 🌐
   - trigger: ':global:'
-    replace: "\U0001F310"
+    replace: 🌐
   - trigger: ':diamond shape with a dot inside:'
-    replace: "\U0001F4A0"
+    replace: 💠
   - trigger: ':m:'
     replace: Ⓜ️
   - trigger: ':cyclone:'
-    replace: "\U0001F300"
+    replace: 🌀
   - trigger: ':swirl:'
-    replace: "\U0001F300"
+    replace: 🌀
   - trigger: ':zzz:'
-    replace: "\U0001F4A4"
+    replace: 💤
   - trigger: ':atm:'
-    replace: "\U0001F3E7"
+    replace: 🏧
   - trigger: ':wc:'
-    replace: "\U0001F6BE"
+    replace: 🚾
   - trigger: ':wheelchair:'
-    replace: ♿️
+    replace: ♿
   - trigger: ':accessibility:'
-    replace: ♿️
+    replace: ♿
   - trigger: ':parking:'
-    replace: "\U0001F17F️"
+    replace: 🅿️
   - trigger: ':u7a7a:'
-    replace: "\U0001F233"
+    replace: 🈳
   - trigger: ':sa:'
-    replace: "\U0001F202️"
+    replace: 🈂️
   - trigger: ':passport control:'
-    replace: "\U0001F6C2"
+    replace: 🛂
   - trigger: ':customs:'
-    replace: "\U0001F6C3"
+    replace: 🛃
   - trigger: ':baggage claim:'
-    replace: "\U0001F6C4"
+    replace: 🛄
   - trigger: ':airport:'
-    replace: "\U0001F6C4"
+    replace: 🛄
   - trigger: ':left luggage:'
-    replace: "\U0001F6C5"
+    replace: 🛅
   - trigger: ':mens:'
-    replace: "\U0001F6B9"
+    replace: 🚹
   - trigger: ':womens:'
-    replace: "\U0001F6BA"
+    replace: 🚺
   - trigger: ':baby symbol:'
-    replace: "\U0001F6BC"
+    replace: 🚼
   - trigger: ':restroom:'
-    replace: "\U0001F6BB"
+    replace: 🚾
   - trigger: ':put litter in its place:'
-    replace: "\U0001F6AE"
+    replace: 🚮
   - trigger: ':cinema:'
-    replace: "\U0001F3A6"
+    replace: 🎦
   - trigger: ':movie:'
-    replace: "\U0001F3A6"
+    replace: 🎦
   - trigger: ':signal strength:'
-    replace: "\U0001F4F6"
+    replace: 📶
   - trigger: ':wifi:'
-    replace: "\U0001F4F6"
+    replace: 📶
   - trigger: ':koko:'
-    replace: "\U0001F201"
+    replace: 🈁
   - trigger: ':symbols:'
-    replace: "\U0001F523"
+    replace: 🔣
   - trigger: ':information source:'
     replace: ℹ️
   - trigger: ':abc:'
-    replace: "\U0001F524"
+    replace: 🔤
   - trigger: ':alphabet:'
-    replace: "\U0001F524"
+    replace: 🔤
   - trigger: ':abcd:'
-    replace: "\U0001F521"
+    replace: 🔡
   - trigger: ':capital abcd:'
-    replace: "\U0001F520"
+    replace: 🔠
   - trigger: ':letters:'
-    replace: "\U0001F520"
+    replace: 🔠
   - trigger: ':ng:'
-    replace: "\U0001F196"
+    replace: 🆖
   - trigger: ':ok:'
-    replace: "\U0001F197"
+    replace: 🆗
   - trigger: ':yes:'
-    replace: "\U0001F197"
+    replace: 🆗
   - trigger: ':up:'
-    replace: "\U0001F199"
+    replace: 🆙
   - trigger: ':cool:'
-    replace: "\U0001F192"
+    replace: 🆒
   - trigger: ':new:'
-    replace: "\U0001F195"
+    replace: 🆕
   - trigger: ':fresh:'
-    replace: "\U0001F195"
+    replace: 🆕
   - trigger: ':free:'
-    replace: "\U0001F193"
+    replace: 🆓
   - trigger: ':zero:'
     replace: 0️⃣
   - trigger: ':one:'
@@ -3009,7 +3005,7 @@ matches:
   - trigger: ':nine:'
     replace: 9️⃣
   - trigger: ':keycap ten:'
-    replace: "\U0001F51F"
+    replace: 🔟
   - trigger: ':hash:'
     replace: '#️⃣'
   - trigger: ':number:'
@@ -3019,17 +3015,17 @@ matches:
   - trigger: ':arrow forward:'
     replace: ▶️
   - trigger: ':pause button:'
-    replace: ⏸
+    replace: ⏸️
   - trigger: ':play or pause button:'
-    replace: ⏯
+    replace: ⏯️
   - trigger: ':stop button:'
-    replace: ⏹
+    replace: ⏹️
   - trigger: ':record button:'
-    replace: ⏺
+    replace: ⏺️
   - trigger: ':next track button:'
-    replace: ⏭
+    replace: ⏭️
   - trigger: ':previous track button:'
-    replace: ⏮
+    replace: ⏮️
   - trigger: ':fast forward:'
     replace: ⏩
   - trigger: ':rewind:'
@@ -3041,9 +3037,9 @@ matches:
   - trigger: ':arrow backward:'
     replace: ◀️
   - trigger: ':arrow up small:'
-    replace: "\U0001F53C"
+    replace: 🔼
   - trigger: ':arrow down small:'
-    replace: "\U0001F53D"
+    replace: 🔽
   - trigger: ':arrow right:'
     replace: ➡️
   - trigger: ':arrow left:'
@@ -3075,23 +3071,23 @@ matches:
   - trigger: ':arrow heading down:'
     replace: ⤵️
   - trigger: ':twisted rightwards arrows:'
-    replace: "\U0001F500"
+    replace: 🔀
   - trigger: ':shuffle:'
-    replace: "\U0001F500"
+    replace: 🔀
   - trigger: ':repeat:'
-    replace: "\U0001F501"
+    replace: 🔁
   - trigger: ':repeat one:'
-    replace: "\U0001F502"
+    replace: 🔂
   - trigger: ':arrows counterclockwise:'
-    replace: "\U0001F504"
+    replace: 🔄
   - trigger: ':sync:'
-    replace: "\U0001F504"
+    replace: 🔄
   - trigger: ':arrows clockwise:'
-    replace: "\U0001F503"
+    replace: 🔃
   - trigger: ':musical note:'
-    replace: "\U0001F3B5"
+    replace: 🎵
   - trigger: ':notes:'
-    replace: "\U0001F3B6"
+    replace: 🎶
   - trigger: ':heavy plus sign:'
     replace: ➕
   - trigger: ':heavy minus sign:'
@@ -3101,9 +3097,9 @@ matches:
   - trigger: ':heavy multiplication x:'
     replace: ✖️
   - trigger: ':heavy dollar sign:'
-    replace: "\U0001F4B2"
+    replace: 💲
   - trigger: ':currency exchange:'
-    replace: "\U0001F4B1"
+    replace: 💱
   - trigger: ':tm:'
     replace: ™️
   - trigger: ':trademark:'
@@ -3119,93 +3115,93 @@ matches:
   - trigger: ':loop:'
     replace: ➿
   - trigger: ':end:'
-    replace: "\U0001F51A"
+    replace: 🔚
   - trigger: ':back:'
-    replace: "\U0001F519"
+    replace: 🔙
   - trigger: ':on:'
-    replace: "\U0001F51B"
+    replace: 🔛
   - trigger: ':top:'
-    replace: "\U0001F51D"
+    replace: 🔝
   - trigger: ':soon:'
-    replace: "\U0001F51C"
+    replace: 🔜
   - trigger: ':heavy check mark:'
     replace: ✔️
   - trigger: ':ballot box with check:'
     replace: ☑️
   - trigger: ':radio button:'
-    replace: "\U0001F518"
+    replace: 🔘
   - trigger: ':white circle:'
-    replace: ⚪️
+    replace: ⚪
   - trigger: ':black circle:'
-    replace: ⚫️
+    replace: ⚫
   - trigger: ':red circle:'
-    replace: "\U0001F534"
+    replace: 🔴
   - trigger: ':large blue circle:'
-    replace: "\U0001F535"
+    replace: 🔵
   - trigger: ':small red triangle:'
-    replace: "\U0001F53A"
+    replace: 🔺
   - trigger: ':small red triangle down:'
-    replace: "\U0001F53B"
+    replace: 🔻
   - trigger: ':small orange diamond:'
-    replace: "\U0001F538"
+    replace: 🔸
   - trigger: ':small blue diamond:'
-    replace: "\U0001F539"
+    replace: 🔹
   - trigger: ':large orange diamond:'
-    replace: "\U0001F536"
+    replace: 🔶
   - trigger: ':large blue diamond:'
-    replace: "\U0001F537"
+    replace: 🔷
   - trigger: ':white square button:'
-    replace: "\U0001F533"
+    replace: 🔳
   - trigger: ':black square button:'
-    replace: "\U0001F532"
+    replace: 🔲
   - trigger: ':black small square:'
     replace: ▪️
   - trigger: ':white small square:'
     replace: ▫️
   - trigger: ':black medium small square:'
-    replace: ◾️
+    replace: ◾
   - trigger: ':white medium small square:'
-    replace: ◽️
+    replace: ◽
   - trigger: ':black medium square:'
     replace: ◼️
   - trigger: ':white medium square:'
     replace: ◻️
   - trigger: ':black large square:'
-    replace: ⬛️
+    replace: ⬛
   - trigger: ':white large square:'
-    replace: ⬜️
+    replace: ⬜
   - trigger: ':speaker:'
-    replace: "\U0001F508"
+    replace: 🔈
   - trigger: ':mute:'
-    replace: "\U0001F507"
+    replace: 📴
   - trigger: ':volume:'
-    replace: "\U0001F507"
+    replace: 🔕
   - trigger: ':sound:'
-    replace: "\U0001F509"
+    replace: 🔔
   - trigger: ':loud sound:'
-    replace: "\U0001F50A"
+    replace: 🔊
   - trigger: ':bell:'
-    replace: "\U0001F514"
+    replace: 🔔
   - trigger: ':notification:'
-    replace: "\U0001F514"
+    replace: 🔔
   - trigger: ':no bell:'
-    replace: "\U0001F515"
+    replace: 🔕
   - trigger: ':mega:'
-    replace: "\U0001F4E3"
+    replace: 📣
   - trigger: ':loudspeaker:'
-    replace: "\U0001F4E2"
+    replace: 📢
   - trigger: ':announcement:'
-    replace: "\U0001F4E2"
+    replace: 📢
   - trigger: ':eye speech bubble:'
-    replace: "\U0001F441‍\U0001F5E8"
+    replace: 👁️‍🗨️
   - trigger: ':speech balloon:'
-    replace: "\U0001F4AC"
+    replace: 💬
   - trigger: ':comment:'
-    replace: "\U0001F4AC"
+    replace: 💬
   - trigger: ':thought balloon:'
-    replace: "\U0001F4AD"
+    replace: 💭
   - trigger: ':right anger bubble:'
-    replace: "\U0001F5EF"
+    replace: 🗯️
   - trigger: ':spades:'
     replace: ♠️
   - trigger: ':clubs:'
@@ -3215,606 +3211,606 @@ matches:
   - trigger: ':diamonds:'
     replace: ♦️
   - trigger: ':black joker:'
-    replace: "\U0001F0CF"
+    replace: 🃏
   - trigger: ':flower playing cards:'
-    replace: "\U0001F3B4"
+    replace: 🎴
   - trigger: ':mahjong:'
-    replace: "\U0001F004️"
+    replace: 🀄
   - trigger: ':clock1:'
-    replace: "\U0001F550"
+    replace: 🕐
   - trigger: ':clock2:'
-    replace: "\U0001F551"
+    replace: 🕑
   - trigger: ':clock3:'
-    replace: "\U0001F552"
+    replace: 🕒
   - trigger: ':clock4:'
-    replace: "\U0001F553"
+    replace: 🕓
   - trigger: ':clock5:'
-    replace: "\U0001F554"
+    replace: 🕔
   - trigger: ':clock6:'
-    replace: "\U0001F555"
+    replace: 🕕
   - trigger: ':clock7:'
-    replace: "\U0001F556"
+    replace: 🕖
   - trigger: ':clock8:'
-    replace: "\U0001F557"
+    replace: 🕗
   - trigger: ':clock9:'
-    replace: "\U0001F558"
+    replace: 🕘
   - trigger: ':clock10:'
-    replace: "\U0001F559"
+    replace: 🕙
   - trigger: ':clock11:'
-    replace: "\U0001F55A"
+    replace: 🕚
   - trigger: ':clock12:'
-    replace: "\U0001F55B"
+    replace: 🕛
   - trigger: ':clock130:'
-    replace: "\U0001F55C"
+    replace: 🕜
   - trigger: ':clock230:'
-    replace: "\U0001F55D"
+    replace: 🕝
   - trigger: ':clock330:'
-    replace: "\U0001F55E"
+    replace: 🕞
   - trigger: ':clock430:'
-    replace: "\U0001F55F"
+    replace: 🕟
   - trigger: ':clock530:'
-    replace: "\U0001F560"
+    replace: 🕠
   - trigger: ':clock630:'
-    replace: "\U0001F561"
+    replace: 🕡
   - trigger: ':clock730:'
-    replace: "\U0001F562"
+    replace: 🕢
   - trigger: ':clock830:'
-    replace: "\U0001F563"
+    replace: 🕣
   - trigger: ':clock930:'
-    replace: "\U0001F564"
+    replace: 🕤
   - trigger: ':clock1030:'
-    replace: "\U0001F565"
+    replace: 🕥
   - trigger: ':clock1130:'
-    replace: "\U0001F566"
+    replace: 🕦
   - trigger: ':clock1230:'
-    replace: "\U0001F567"
+    replace: 🕧
   - trigger: ':white flag:'
-    replace: "\U0001F3F3️"
+    replace: 🏳️
   - trigger: ':black flag:'
-    replace: "\U0001F3F4"
+    replace: 🏴
   - trigger: ':checkered flag:'
-    replace: "\U0001F3C1"
+    replace: 🏁
   - trigger: ':milestone:'
-    replace: "\U0001F3C1"
+    replace: 🏁
   - trigger: ':finish:'
-    replace: "\U0001F3C1"
+    replace: 🏁
   - trigger: ':triangular flag on post:'
-    replace: "\U0001F6A9"
+    replace: 🚩
   - trigger: ':rainbow flag:'
-    replace: "\U0001F3F3️‍\U0001F308"
+    replace: 🏳️‍🌈
   - trigger: ':pride:'
-    replace: "\U0001F3F3️‍\U0001F308"
+    replace: 🏳️‍🌈
   - trigger: ':afghanistan:'
-    replace: "\U0001F1E6\U0001F1EB"
+    replace: 🇦🇫
   - trigger: ':aland islands:'
-    replace: "\U0001F1E6\U0001F1FD"
+    replace: 🇦🇽
   - trigger: ':albania:'
-    replace: "\U0001F1E6\U0001F1F1"
+    replace: 🇦🇱
   - trigger: ':algeria:'
-    replace: "\U0001F1E9\U0001F1FF"
+    replace: 🇩🇿
   - trigger: ':american samoa:'
-    replace: "\U0001F1E6\U0001F1F8"
+    replace: 🇦🇸
   - trigger: ':andorra:'
-    replace: "\U0001F1E6\U0001F1E9"
+    replace: 🇦🇩
   - trigger: ':angola:'
-    replace: "\U0001F1E6\U0001F1F4"
+    replace: 🇦🇴
   - trigger: ':anguilla:'
-    replace: "\U0001F1E6\U0001F1EE"
+    replace: 🇦🇮
   - trigger: ':antarctica:'
-    replace: "\U0001F1E6\U0001F1F6"
+    replace: 🇦🇶
   - trigger: ':antigua barbuda:'
-    replace: "\U0001F1E6\U0001F1EC"
+    replace: 🇦🇬
   - trigger: ':argentina:'
-    replace: "\U0001F1E6\U0001F1F7"
+    replace: 🇦🇷
   - trigger: ':armenia:'
-    replace: "\U0001F1E6\U0001F1F2"
+    replace: 🇦🇲
   - trigger: ':aruba:'
-    replace: "\U0001F1E6\U0001F1FC"
+    replace: 🇦🇼
   - trigger: ':australia:'
-    replace: "\U0001F1E6\U0001F1FA"
+    replace: 🇦🇺
   - trigger: ':austria:'
-    replace: "\U0001F1E6\U0001F1F9"
+    replace: 🇦🇹
   - trigger: ':azerbaijan:'
-    replace: "\U0001F1E6\U0001F1FF"
+    replace: 🇦🇿
   - trigger: ':bahamas:'
-    replace: "\U0001F1E7\U0001F1F8"
+    replace: 🇧🇸
   - trigger: ':bahrain:'
-    replace: "\U0001F1E7\U0001F1ED"
+    replace: 🇧🇭
   - trigger: ':bangladesh:'
-    replace: "\U0001F1E7\U0001F1E9"
+    replace: 🇧🇩
   - trigger: ':barbados:'
-    replace: "\U0001F1E7\U0001F1E7"
+    replace: 🇧🇧
   - trigger: ':belarus:'
-    replace: "\U0001F1E7\U0001F1FE"
+    replace: 🇧🇾
   - trigger: ':belgium:'
-    replace: "\U0001F1E7\U0001F1EA"
+    replace: 🇧🇪
   - trigger: ':belize:'
-    replace: "\U0001F1E7\U0001F1FF"
+    replace: 🇧🇿
   - trigger: ':benin:'
-    replace: "\U0001F1E7\U0001F1EF"
+    replace: 🇧🇯
   - trigger: ':bermuda:'
-    replace: "\U0001F1E7\U0001F1F2"
+    replace: 🇧🇲
   - trigger: ':bhutan:'
-    replace: "\U0001F1E7\U0001F1F9"
+    replace: 🇧🇹
   - trigger: ':bolivia:'
-    replace: "\U0001F1E7\U0001F1F4"
+    replace: 🇧🇴
   - trigger: ':caribbean netherlands:'
-    replace: "\U0001F1E7\U0001F1F6"
+    replace: 🇧🇶
   - trigger: ':bosnia herzegovina:'
-    replace: "\U0001F1E7\U0001F1E6"
+    replace: 🇧🇦
   - trigger: ':botswana:'
-    replace: "\U0001F1E7\U0001F1FC"
+    replace: 🇧🇼
   - trigger: ':brazil:'
-    replace: "\U0001F1E7\U0001F1F7"
+    replace: 🇧🇷
   - trigger: ':british indian ocean territory:'
-    replace: "\U0001F1EE\U0001F1F4"
+    replace: 🇮🇴
   - trigger: ':british virgin islands:'
-    replace: "\U0001F1FB\U0001F1EC"
+    replace: 🇻🇬
   - trigger: ':brunei:'
-    replace: "\U0001F1E7\U0001F1F3"
+    replace: 🇧🇳
   - trigger: ':bulgaria:'
-    replace: "\U0001F1E7\U0001F1EC"
+    replace: 🇧🇬
   - trigger: ':burkina faso:'
-    replace: "\U0001F1E7\U0001F1EB"
+    replace: 🇧🇫
   - trigger: ':burundi:'
-    replace: "\U0001F1E7\U0001F1EE"
+    replace: 🇧🇮
   - trigger: ':cape verde:'
-    replace: "\U0001F1E8\U0001F1FB"
+    replace: 🇨🇻
   - trigger: ':cambodia:'
-    replace: "\U0001F1F0\U0001F1ED"
+    replace: 🇰🇭
   - trigger: ':cameroon:'
-    replace: "\U0001F1E8\U0001F1F2"
+    replace: 🇨🇲
   - trigger: ':canada:'
-    replace: "\U0001F1E8\U0001F1E6"
+    replace: 🇨🇦
   - trigger: ':canary islands:'
-    replace: "\U0001F1EE\U0001F1E8"
+    replace: 🇮🇨
   - trigger: ':cayman islands:'
-    replace: "\U0001F1F0\U0001F1FE"
+    replace: 🇰🇾
   - trigger: ':central african republic:'
-    replace: "\U0001F1E8\U0001F1EB"
+    replace: 🇨🇫
   - trigger: ':chad:'
-    replace: "\U0001F1F9\U0001F1E9"
+    replace: 🇹🇩
   - trigger: ':chile:'
-    replace: "\U0001F1E8\U0001F1F1"
+    replace: 🇨🇱
   - trigger: ':cn:'
-    replace: "\U0001F1E8\U0001F1F3"
+    replace: 🇨🇳
   - trigger: ':china:'
-    replace: "\U0001F1E8\U0001F1F3"
+    replace: 🇨🇳
   - trigger: ':christmas island:'
-    replace: "\U0001F1E8\U0001F1FD"
+    replace: 🇨🇽
   - trigger: ':cocos islands:'
-    replace: "\U0001F1E8\U0001F1E8"
+    replace: 🇨🇨
   - trigger: ':keeling:'
-    replace: "\U0001F1E8\U0001F1E8"
+    replace: 🇨🇨
   - trigger: ':colombia:'
-    replace: "\U0001F1E8\U0001F1F4"
+    replace: 🇨🇴
   - trigger: ':comoros:'
-    replace: "\U0001F1F0\U0001F1F2"
+    replace: 🇰🇲
   - trigger: ':congo brazzaville:'
-    replace: "\U0001F1E8\U0001F1EC"
+    replace: 🇨🇬
   - trigger: ':congo kinshasa:'
-    replace: "\U0001F1E8\U0001F1E9"
+    replace: 🇨🇩
   - trigger: ':cook islands:'
-    replace: "\U0001F1E8\U0001F1F0"
+    replace: 🇨🇰
   - trigger: ':costa rica:'
-    replace: "\U0001F1E8\U0001F1F7"
+    replace: 🇨🇷
   - trigger: ':cote divoire:'
-    replace: "\U0001F1E8\U0001F1EE"
+    replace: 🇨🇮
   - trigger: ':ivory:'
-    replace: "\U0001F1E8\U0001F1EE"
+    replace: 🇨🇮
   - trigger: ':croatia:'
-    replace: "\U0001F1ED\U0001F1F7"
+    replace: 🇭🇷
   - trigger: ':cuba:'
-    replace: "\U0001F1E8\U0001F1FA"
+    replace: 🇨🇺
   - trigger: ':curacao:'
-    replace: "\U0001F1E8\U0001F1FC"
+    replace: 🇨🇼
   - trigger: ':cyprus:'
-    replace: "\U0001F1E8\U0001F1FE"
+    replace: 🇨🇾
   - trigger: ':czech republic:'
-    replace: "\U0001F1E8\U0001F1FF"
+    replace: 🇨🇿
   - trigger: ':denmark:'
-    replace: "\U0001F1E9\U0001F1F0"
+    replace: 🇩🇰
   - trigger: ':djibouti:'
-    replace: "\U0001F1E9\U0001F1EF"
+    replace: 🇩🇯
   - trigger: ':dominica:'
-    replace: "\U0001F1E9\U0001F1F2"
+    replace: 🇩🇲
   - trigger: ':dominican republic:'
-    replace: "\U0001F1E9\U0001F1F4"
+    replace: 🇩🇴
   - trigger: ':ecuador:'
-    replace: "\U0001F1EA\U0001F1E8"
+    replace: 🇪🇨
   - trigger: ':egypt:'
-    replace: "\U0001F1EA\U0001F1EC"
+    replace: 🇪🇬
   - trigger: ':el salvador:'
-    replace: "\U0001F1F8\U0001F1FB"
+    replace: 🇸🇻
   - trigger: ':equatorial guinea:'
-    replace: "\U0001F1EC\U0001F1F6"
+    replace: 🇬🇶
   - trigger: ':eritrea:'
-    replace: "\U0001F1EA\U0001F1F7"
+    replace: 🇪🇷
   - trigger: ':estonia:'
-    replace: "\U0001F1EA\U0001F1EA"
+    replace: 🇪🇪
   - trigger: ':ethiopia:'
-    replace: "\U0001F1EA\U0001F1F9"
+    replace: 🇪🇹
   - trigger: ':eu:'
-    replace: "\U0001F1EA\U0001F1FA"
+    replace: 🇪🇺
   - trigger: ':european union:'
-    replace: "\U0001F1EA\U0001F1FA"
+    replace: 🇪🇺
   - trigger: ':eu:'
-    replace: "\U0001F1EA\U0001F1FA"
+    replace: 🇪🇺
   - trigger: ':falkland islands:'
-    replace: "\U0001F1EB\U0001F1F0"
+    replace: 🇫🇰
   - trigger: ':faroe islands:'
-    replace: "\U0001F1EB\U0001F1F4"
+    replace: 🇫🇴
   - trigger: ':fiji:'
-    replace: "\U0001F1EB\U0001F1EF"
+    replace: 🇫🇯
   - trigger: ':finland:'
-    replace: "\U0001F1EB\U0001F1EE"
+    replace: 🇫🇮
   - trigger: ':fr:'
-    replace: "\U0001F1EB\U0001F1F7"
+    replace: 🇫🇷
   - trigger: ':france:'
-    replace: "\U0001F1EB\U0001F1F7"
+    replace: 🇫🇷
   - trigger: ':french:'
-    replace: "\U0001F1EB\U0001F1F7"
+    replace: 🇫🇷
   - trigger: ':french guiana:'
-    replace: "\U0001F1EC\U0001F1EB"
+    replace: 🇬🇫
   - trigger: ':french polynesia:'
-    replace: "\U0001F1F5\U0001F1EB"
+    replace: 🇵🇫
   - trigger: ':french southern territories:'
-    replace: "\U0001F1F9\U0001F1EB"
+    replace: 🇹🇫
   - trigger: ':gabon:'
-    replace: "\U0001F1EC\U0001F1E6"
+    replace: 🇬🇦
   - trigger: ':gambia:'
-    replace: "\U0001F1EC\U0001F1F2"
+    replace: 🇬🇲
   - trigger: ':georgia:'
-    replace: "\U0001F1EC\U0001F1EA"
+    replace: 🇬🇪
   - trigger: ':de:'
-    replace: "\U0001F1E9\U0001F1EA"
+    replace: 🇩🇪
   - trigger: ':flag:'
-    replace: "\U0001F1E9\U0001F1EA"
+    replace: 🇺🇸
   - trigger: ':germany:'
-    replace: "\U0001F1E9\U0001F1EA"
+    replace: 🇩🇪
   - trigger: ':ghana:'
-    replace: "\U0001F1EC\U0001F1ED"
+    replace: 🇬🇭
   - trigger: ':gibraltar:'
-    replace: "\U0001F1EC\U0001F1EE"
+    replace: 🇬🇮
   - trigger: ':greece:'
-    replace: "\U0001F1EC\U0001F1F7"
+    replace: 🇬🇷
   - trigger: ':greenland:'
-    replace: "\U0001F1EC\U0001F1F1"
+    replace: 🇬🇱
   - trigger: ':grenada:'
-    replace: "\U0001F1EC\U0001F1E9"
+    replace: 🇬🇩
   - trigger: ':guadeloupe:'
-    replace: "\U0001F1EC\U0001F1F5"
+    replace: 🇬🇵
   - trigger: ':guam:'
-    replace: "\U0001F1EC\U0001F1FA"
+    replace: 🇬🇺
   - trigger: ':guatemala:'
-    replace: "\U0001F1EC\U0001F1F9"
+    replace: 🇬🇹
   - trigger: ':guernsey:'
-    replace: "\U0001F1EC\U0001F1EC"
+    replace: 🇬🇬
   - trigger: ':guinea:'
-    replace: "\U0001F1EC\U0001F1F3"
+    replace: 🇬🇳
   - trigger: ':guinea bissau:'
-    replace: "\U0001F1EC\U0001F1FC"
+    replace: 🇬🇼
   - trigger: ':guyana:'
-    replace: "\U0001F1EC\U0001F1FE"
+    replace: 🇬🇾
   - trigger: ':haiti:'
-    replace: "\U0001F1ED\U0001F1F9"
+    replace: 🇭🇹
   - trigger: ':honduras:'
-    replace: "\U0001F1ED\U0001F1F3"
+    replace: 🇭🇳
   - trigger: ':hong kong:'
-    replace: "\U0001F1ED\U0001F1F0"
+    replace: 🇭🇰
   - trigger: ':hungary:'
-    replace: "\U0001F1ED\U0001F1FA"
+    replace: 🇭🇺
   - trigger: ':iceland:'
-    replace: "\U0001F1EE\U0001F1F8"
+    replace: 🇮🇸
   - trigger: ':india:'
-    replace: "\U0001F1EE\U0001F1F3"
+    replace: 🇮🇳
   - trigger: ':indonesia:'
-    replace: "\U0001F1EE\U0001F1E9"
+    replace: 🇮🇩
   - trigger: ':iran:'
-    replace: "\U0001F1EE\U0001F1F7"
+    replace: 🇮🇷
   - trigger: ':iraq:'
-    replace: "\U0001F1EE\U0001F1F6"
+    replace: 🇮🇶
   - trigger: ':ireland:'
-    replace: "\U0001F1EE\U0001F1EA"
+    replace: 🇮🇪
   - trigger: ':isle of man:'
-    replace: "\U0001F1EE\U0001F1F2"
+    replace: 🇮🇲
   - trigger: ':israel:'
-    replace: "\U0001F1EE\U0001F1F1"
+    replace: 🇮🇱
   - trigger: ':it:'
-    replace: "\U0001F1EE\U0001F1F9"
+    replace: 🇮🇹
   - trigger: ':italy:'
-    replace: "\U0001F1EE\U0001F1F9"
+    replace: 🇮🇹
   - trigger: ':jamaica:'
-    replace: "\U0001F1EF\U0001F1F2"
+    replace: 🇯🇲
   - trigger: ':jp:'
-    replace: "\U0001F1EF\U0001F1F5"
+    replace: 🇯🇵
   - trigger: ':crossed flags:'
-    replace: "\U0001F38C"
+    replace: 🎌
   - trigger: ':jersey:'
-    replace: "\U0001F1EF\U0001F1EA"
+    replace: 🇯🇪
   - trigger: ':jordan:'
-    replace: "\U0001F1EF\U0001F1F4"
+    replace: 🇯🇴
   - trigger: ':kazakhstan:'
-    replace: "\U0001F1F0\U0001F1FF"
+    replace: 🇰🇿
   - trigger: ':kenya:'
-    replace: "\U0001F1F0\U0001F1EA"
+    replace: 🇰🇪
   - trigger: ':kiribati:'
-    replace: "\U0001F1F0\U0001F1EE"
+    replace: 🇰🇮
   - trigger: ':kosovo:'
-    replace: "\U0001F1FD\U0001F1F0"
+    replace: 🇽🇰
   - trigger: ':kuwait:'
-    replace: "\U0001F1F0\U0001F1FC"
+    replace: 🇰🇼
   - trigger: ':kyrgyzstan:'
-    replace: "\U0001F1F0\U0001F1EC"
+    replace: 🇰🇬
   - trigger: ':laos:'
-    replace: "\U0001F1F1\U0001F1E6"
+    replace: 🇱🇦
   - trigger: ':latvia:'
-    replace: "\U0001F1F1\U0001F1FB"
+    replace: 🇱🇻
   - trigger: ':lebanon:'
-    replace: "\U0001F1F1\U0001F1E7"
+    replace: 🇱🇧
   - trigger: ':lesotho:'
-    replace: "\U0001F1F1\U0001F1F8"
+    replace: 🇱🇸
   - trigger: ':liberia:'
-    replace: "\U0001F1F1\U0001F1F7"
+    replace: 🇱🇷
   - trigger: ':libya:'
-    replace: "\U0001F1F1\U0001F1FE"
+    replace: 🇱🇾
   - trigger: ':liechtenstein:'
-    replace: "\U0001F1F1\U0001F1EE"
+    replace: 🇱🇮
   - trigger: ':lithuania:'
-    replace: "\U0001F1F1\U0001F1F9"
+    replace: 🇱🇹
   - trigger: ':luxembourg:'
-    replace: "\U0001F1F1\U0001F1FA"
+    replace: 🇱🇺
   - trigger: ':macau:'
-    replace: "\U0001F1F2\U0001F1F4"
+    replace: 🇲🇴
   - trigger: ':macedonia:'
-    replace: "\U0001F1F2\U0001F1F0"
+    replace: 🇲🇰
   - trigger: ':madagascar:'
-    replace: "\U0001F1F2\U0001F1EC"
+    replace: 🇲🇬
   - trigger: ':malawi:'
-    replace: "\U0001F1F2\U0001F1FC"
+    replace: 🇲🇼
   - trigger: ':malaysia:'
-    replace: "\U0001F1F2\U0001F1FE"
+    replace: 🇲🇾
   - trigger: ':maldives:'
-    replace: "\U0001F1F2\U0001F1FB"
+    replace: 🇲🇻
   - trigger: ':mali:'
-    replace: "\U0001F1F2\U0001F1F1"
+    replace: 🇲🇱
   - trigger: ':malta:'
-    replace: "\U0001F1F2\U0001F1F9"
+    replace: 🇲🇹
   - trigger: ':marshall islands:'
-    replace: "\U0001F1F2\U0001F1ED"
+    replace: 🇲🇭
   - trigger: ':martinique:'
-    replace: "\U0001F1F2\U0001F1F6"
+    replace: 🇲🇶
   - trigger: ':mauritania:'
-    replace: "\U0001F1F2\U0001F1F7"
+    replace: 🇲🇷
   - trigger: ':mauritius:'
-    replace: "\U0001F1F2\U0001F1FA"
+    replace: 🇲🇺
   - trigger: ':mayotte:'
-    replace: "\U0001F1FE\U0001F1F9"
+    replace: 🇾🇹
   - trigger: ':mexico:'
-    replace: "\U0001F1F2\U0001F1FD"
+    replace: 🇲🇽
   - trigger: ':micronesia:'
-    replace: "\U0001F1EB\U0001F1F2"
+    replace: 🇫🇲
   - trigger: ':moldova:'
-    replace: "\U0001F1F2\U0001F1E9"
+    replace: 🇲🇩
   - trigger: ':monaco:'
-    replace: "\U0001F1F2\U0001F1E8"
+    replace: 🇲🇨
   - trigger: ':mongolia:'
-    replace: "\U0001F1F2\U0001F1F3"
+    replace: 🇲🇳
   - trigger: ':montenegro:'
-    replace: "\U0001F1F2\U0001F1EA"
+    replace: 🇲🇪
   - trigger: ':montserrat:'
-    replace: "\U0001F1F2\U0001F1F8"
+    replace: 🇲🇸
   - trigger: ':morocco:'
-    replace: "\U0001F1F2\U0001F1E6"
+    replace: 🇲🇦
   - trigger: ':mozambique:'
-    replace: "\U0001F1F2\U0001F1FF"
+    replace: 🇲🇿
   - trigger: ':myanmar:'
-    replace: "\U0001F1F2\U0001F1F2"
+    replace: 🇲🇲
   - trigger: ':burma:'
-    replace: "\U0001F1F2\U0001F1F2"
+    replace: 🇲🇲
   - trigger: ':namibia:'
-    replace: "\U0001F1F3\U0001F1E6"
+    replace: 🇳🇦
   - trigger: ':nauru:'
-    replace: "\U0001F1F3\U0001F1F7"
+    replace: 🇳🇷
   - trigger: ':nepal:'
-    replace: "\U0001F1F3\U0001F1F5"
+    replace: 🇳🇵
   - trigger: ':netherlands:'
-    replace: "\U0001F1F3\U0001F1F1"
+    replace: 🇳🇱
   - trigger: ':new caledonia:'
-    replace: "\U0001F1F3\U0001F1E8"
+    replace: 🇳🇨
   - trigger: ':new zealand:'
-    replace: "\U0001F1F3\U0001F1FF"
+    replace: 🇳🇿
   - trigger: ':nicaragua:'
-    replace: "\U0001F1F3\U0001F1EE"
+    replace: 🇳🇮
   - trigger: ':niger:'
-    replace: "\U0001F1F3\U0001F1EA"
+    replace: 🇳🇪
   - trigger: ':nigeria:'
-    replace: "\U0001F1F3\U0001F1EC"
+    replace: 🇳🇬
   - trigger: ':niue:'
-    replace: "\U0001F1F3\U0001F1FA"
+    replace: 🇳🇺
   - trigger: ':norfolk island:'
-    replace: "\U0001F1F3\U0001F1EB"
+    replace: 🇳🇫
   - trigger: ':northern mariana islands:'
-    replace: "\U0001F1F2\U0001F1F5"
+    replace: 🇲🇵
   - trigger: ':north korea:'
-    replace: "\U0001F1F0\U0001F1F5"
+    replace: 🇰🇵
   - trigger: ':norway:'
-    replace: "\U0001F1F3\U0001F1F4"
+    replace: 🇳🇴
   - trigger: ':oman:'
-    replace: "\U0001F1F4\U0001F1F2"
+    replace: 🇴🇲
   - trigger: ':pakistan:'
-    replace: "\U0001F1F5\U0001F1F0"
+    replace: 🇵🇰
   - trigger: ':palau:'
-    replace: "\U0001F1F5\U0001F1FC"
+    replace: 🇵🇼
   - trigger: ':palestinian territories:'
-    replace: "\U0001F1F5\U0001F1F8"
+    replace: 🇵🇸
   - trigger: ':panama:'
-    replace: "\U0001F1F5\U0001F1E6"
+    replace: 🇵🇦
   - trigger: ':papua new guinea:'
-    replace: "\U0001F1F5\U0001F1EC"
+    replace: 🇵🇬
   - trigger: ':paraguay:'
-    replace: "\U0001F1F5\U0001F1FE"
+    replace: 🇵🇾
   - trigger: ':peru:'
-    replace: "\U0001F1F5\U0001F1EA"
+    replace: 🇵🇪
   - trigger: ':philippines:'
-    replace: "\U0001F1F5\U0001F1ED"
+    replace: 🇵🇭
   - trigger: ':pitcairn islands:'
-    replace: "\U0001F1F5\U0001F1F3"
+    replace: 🇵🇳
   - trigger: ':poland:'
-    replace: "\U0001F1F5\U0001F1F1"
+    replace: 🇵🇱
   - trigger: ':portugal:'
-    replace: "\U0001F1F5\U0001F1F9"
+    replace: 🇵🇹
   - trigger: ':puerto rico:'
-    replace: "\U0001F1F5\U0001F1F7"
+    replace: 🇵🇷
   - trigger: ':qatar:'
-    replace: "\U0001F1F6\U0001F1E6"
+    replace: 🇶🇦
   - trigger: ':reunion:'
-    replace: "\U0001F1F7\U0001F1EA"
+    replace: 🇷🇪
   - trigger: ':romania:'
-    replace: "\U0001F1F7\U0001F1F4"
+    replace: 🇷🇴
   - trigger: ':ru:'
-    replace: "\U0001F1F7\U0001F1FA"
+    replace: 🇷🇺
   - trigger: ':russia:'
-    replace: "\U0001F1F7\U0001F1FA"
+    replace: 🇷🇺
   - trigger: ':rwanda:'
-    replace: "\U0001F1F7\U0001F1FC"
+    replace: 🇷🇼
   - trigger: ':st barthelemy:'
-    replace: "\U0001F1E7\U0001F1F1"
+    replace: 🇧🇱
   - trigger: ':st helena:'
-    replace: "\U0001F1F8\U0001F1ED"
+    replace: 🇸🇭
   - trigger: ':st kitts nevis:'
-    replace: "\U0001F1F0\U0001F1F3"
+    replace: 🇰🇳
   - trigger: ':st lucia:'
-    replace: "\U0001F1F1\U0001F1E8"
+    replace: 🇱🇨
   - trigger: ':st pierre miquelon:'
-    replace: "\U0001F1F5\U0001F1F2"
+    replace: 🇵🇲
   - trigger: ':st vincent grenadines:'
-    replace: "\U0001F1FB\U0001F1E8"
+    replace: 🇻🇨
   - trigger: ':samoa:'
-    replace: "\U0001F1FC\U0001F1F8"
+    replace: 🇼🇸
   - trigger: ':san marino:'
-    replace: "\U0001F1F8\U0001F1F2"
+    replace: 🇸🇲
   - trigger: ':sao tome principe:'
-    replace: "\U0001F1F8\U0001F1F9"
+    replace: 🇸🇹
   - trigger: ':saudi arabia:'
-    replace: "\U0001F1F8\U0001F1E6"
+    replace: 🇸🇦
   - trigger: ':senegal:'
-    replace: "\U0001F1F8\U0001F1F3"
+    replace: 🇸🇳
   - trigger: ':serbia:'
-    replace: "\U0001F1F7\U0001F1F8"
+    replace: 🇷🇸
   - trigger: ':seychelles:'
-    replace: "\U0001F1F8\U0001F1E8"
+    replace: 🇸🇨
   - trigger: ':sierra leone:'
-    replace: "\U0001F1F8\U0001F1F1"
+    replace: 🇸🇱
   - trigger: ':singapore:'
-    replace: "\U0001F1F8\U0001F1EC"
+    replace: 🇸🇬
   - trigger: ':sint maarten:'
-    replace: "\U0001F1F8\U0001F1FD"
+    replace: 🇸🇽
   - trigger: ':slovakia:'
-    replace: "\U0001F1F8\U0001F1F0"
+    replace: 🇸🇰
   - trigger: ':slovenia:'
-    replace: "\U0001F1F8\U0001F1EE"
+    replace: 🇸🇮
   - trigger: ':solomon islands:'
-    replace: "\U0001F1F8\U0001F1E7"
+    replace: 🇸🇧
   - trigger: ':somalia:'
-    replace: "\U0001F1F8\U0001F1F4"
+    replace: 🇸🇴
   - trigger: ':south africa:'
-    replace: "\U0001F1FF\U0001F1E6"
+    replace: 🇿🇦
   - trigger: ':south georgia south sandwich islands:'
-    replace: "\U0001F1EC\U0001F1F8"
+    replace: 🇬🇸
   - trigger: ':kr:'
-    replace: "\U0001F1F0\U0001F1F7"
+    replace: 🇰🇷
   - trigger: ':korea:'
-    replace: "\U0001F1F0\U0001F1F7"
+    replace: 🇰🇷
   - trigger: ':south sudan:'
-    replace: "\U0001F1F8\U0001F1F8"
+    replace: 🇸🇸
   - trigger: ':es:'
-    replace: "\U0001F1EA\U0001F1F8"
+    replace: 🇪🇸
   - trigger: ':spain:'
-    replace: "\U0001F1EA\U0001F1F8"
+    replace: 🇪🇸
   - trigger: ':sri lanka:'
-    replace: "\U0001F1F1\U0001F1F0"
+    replace: 🇱🇰
   - trigger: ':sudan:'
-    replace: "\U0001F1F8\U0001F1E9"
+    replace: 🇸🇩
   - trigger: ':suriname:'
-    replace: "\U0001F1F8\U0001F1F7"
+    replace: 🇸🇷
   - trigger: ':swaziland:'
-    replace: "\U0001F1F8\U0001F1FF"
+    replace: 🇸🇿
   - trigger: ':sweden:'
-    replace: "\U0001F1F8\U0001F1EA"
+    replace: 🇸🇪
   - trigger: ':switzerland:'
-    replace: "\U0001F1E8\U0001F1ED"
+    replace: 🇨🇭
   - trigger: ':syria:'
-    replace: "\U0001F1F8\U0001F1FE"
+    replace: 🇸🇾
   - trigger: ':taiwan:'
-    replace: "\U0001F1F9\U0001F1FC"
+    replace: 🇹🇼
   - trigger: ':tajikistan:'
-    replace: "\U0001F1F9\U0001F1EF"
+    replace: 🇹🇯
   - trigger: ':tanzania:'
-    replace: "\U0001F1F9\U0001F1FF"
+    replace: 🇹🇿
   - trigger: ':thailand:'
-    replace: "\U0001F1F9\U0001F1ED"
+    replace: 🇹🇭
   - trigger: ':timor leste:'
-    replace: "\U0001F1F9\U0001F1F1"
+    replace: 🇹🇱
   - trigger: ':togo:'
-    replace: "\U0001F1F9\U0001F1EC"
+    replace: 🇹🇬
   - trigger: ':tokelau:'
-    replace: "\U0001F1F9\U0001F1F0"
+    replace: 🇹🇰
   - trigger: ':tonga:'
-    replace: "\U0001F1F9\U0001F1F4"
+    replace: 🇹🇴
   - trigger: ':trinidad tobago:'
-    replace: "\U0001F1F9\U0001F1F9"
+    replace: 🇹🇹
   - trigger: ':tunisia:'
-    replace: "\U0001F1F9\U0001F1F3"
+    replace: 🇹🇳
   - trigger: ':tr:'
-    replace: "\U0001F1F9\U0001F1F7"
+    replace: 🇹🇷
   - trigger: ':turkmenistan:'
-    replace: "\U0001F1F9\U0001F1F2"
+    replace: 🇹🇲
   - trigger: ':turks caicos islands:'
-    replace: "\U0001F1F9\U0001F1E8"
+    replace: 🇹🇨
   - trigger: ':tuvalu:'
-    replace: "\U0001F1F9\U0001F1FB"
+    replace: 🇹🇻
   - trigger: ':uganda:'
-    replace: "\U0001F1FA\U0001F1EC"
+    replace: 🇺🇬
   - trigger: ':ukraine:'
-    replace: "\U0001F1FA\U0001F1E6"
+    replace: 🇺🇦
   - trigger: ':united arab emirates:'
-    replace: "\U0001F1E6\U0001F1EA"
+    replace: 🇦🇪
   - trigger: ':gb:'
-    replace: "\U0001F1EC\U0001F1E7"
+    replace: 🇬🇧
   - trigger: ':uk:'
-    replace: "\U0001F1EC\U0001F1E7"
+    replace: 🇬🇧
   - trigger: ':british:'
-    replace: "\U0001F1EC\U0001F1E7"
+    replace: 🇬🇧
   - trigger: ':gb:'
-    replace: "\U0001F1EC\U0001F1E7"
+    replace: 🇬🇧
   - trigger: ':us:'
-    replace: "\U0001F1FA\U0001F1F8"
+    replace: 🇺🇸
   - trigger: ':united:'
-    replace: "\U0001F1FA\U0001F1F8"
+    replace: 🇺🇸
   - trigger: ':america:'
-    replace: "\U0001F1FA\U0001F1F8"
+    replace: 🇺🇸
   - trigger: ':us virgin islands:'
-    replace: "\U0001F1FB\U0001F1EE"
+    replace: 🇻🇮
   - trigger: ':uruguay:'
-    replace: "\U0001F1FA\U0001F1FE"
+    replace: 🇺🇾
   - trigger: ':uzbekistan:'
-    replace: "\U0001F1FA\U0001F1FF"
+    replace: 🇺🇿
   - trigger: ':vanuatu:'
-    replace: "\U0001F1FB\U0001F1FA"
+    replace: 🇻🇺
   - trigger: ':vatican city:'
-    replace: "\U0001F1FB\U0001F1E6"
+    replace: 🇻🇦
   - trigger: ':venezuela:'
-    replace: "\U0001F1FB\U0001F1EA"
+    replace: 🇻🇪
   - trigger: ':vietnam:'
-    replace: "\U0001F1FB\U0001F1F3"
+    replace: 🇻🇳
   - trigger: ':wallis futuna:'
-    replace: "\U0001F1FC\U0001F1EB"
+    replace: 🇼🇫
   - trigger: ':western sahara:'
-    replace: "\U0001F1EA\U0001F1ED"
+    replace: 🇪🇭
   - trigger: ':yemen:'
-    replace: "\U0001F1FE\U0001F1EA"
+    replace: 🇾🇪
   - trigger: ':zambia:'
-    replace: "\U0001F1FF\U0001F1F2"
+    replace: 🇿🇲
   - trigger: ':zimbabwe:'
-    replace: "\U0001F1FF\U0001F1FC"
+    replace: 🇿🇼
